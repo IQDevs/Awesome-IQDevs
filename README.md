@@ -5,6 +5,12 @@ A collection of IQDevs community-gathered tools and resources
 * [IQDevs Blog](https://iqdevs.github.io)
 * [Facebook Code](https://code.facebook.com/)
 
+## Continuous Integration
+* [Travis CI](https://travis-ci.org)
+* [AppVeyor](https://www.appveyor.com/)
+* [Codeship](http://codeship.com/)
+* [Visual Studio Mobile Center](Visual Studio Mobile Center)
+
 ## Editors
 * [Atom](atom.io)
 * [VSCode](https://code.visualstudio.com/)
