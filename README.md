@@ -54,6 +54,9 @@ A collection of IQDevs community-gathered tools and resources
 ## Mobile Development
 * [React Native](https://facebook.github.io/react-native/)
 
+## Desktop Programming
+* [Electron](https://electron.atom.io)
+
 ## System Programming
 * [Rust](https://www.rust-lang.org/en-US/)
 
