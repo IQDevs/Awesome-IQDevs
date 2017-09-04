@@ -5,6 +5,7 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Articles & Blogs
 * [IQDevs Blog](https://iqdevs.github.io)
+* [Facebook Code](https://code.facebook.com/)
 
 ## Analytics
 * [Jetbrains Decompiler](jetbrains.com/decompiler/)
@@ -49,3 +50,6 @@ A collection of IQDevs community-gathered tools and resources
 * [Rust](https://www.rust-lang.org/en-US/)
 
 ## Web Development
+
+## Resources
+* [DevDocs](http://devdocs.io/)
