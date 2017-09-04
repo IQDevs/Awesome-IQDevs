@@ -9,7 +9,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Travis CI](https://travis-ci.org)
 * [AppVeyor](https://www.appveyor.com/)
 * [Codeship](http://codeship.com/)
-* [Visual Studio Mobile Center](Visual Studio Mobile Center)
+* [Visual Studio Mobile Center](https://mobile.azure.com)
 
 ## Editors
 * [Atom](atom.io)
