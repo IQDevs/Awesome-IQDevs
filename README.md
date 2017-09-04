@@ -13,7 +13,7 @@ A collection if IQDevs community-gathered tools and resources
 * [Clever Cloud](https://www.clever-cloud.com/)
 * [Surge](https://surge.sh/)
 * [Upload Care](https://uploadcare.com)
-
+* [Uppy](https://uppy.io/)
 
 ## Databases
 * [Redis](https://redis.io/)
@@ -35,6 +35,9 @@ A collection if IQDevs community-gathered tools and resources
 * [Pluralsight](https://pluralsight.com)
 * [Egghead](https://egghead.io)
 
+## Embedded Systems
+* [PlatformIO](http://platformio.org/)
+
 ## General (Uncategorized)
 
 ## Hacking & Security
@@ -43,5 +46,6 @@ A collection if IQDevs community-gathered tools and resources
 ## Mobile Development
 
 ## System Programming
+* [Rust](https://www.rust-lang.org/en-US/)
 
 ## Web Development
