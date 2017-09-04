@@ -1,6 +1,8 @@
 # awesome-IQDevs
 A collection if IQDevs community-gathered tools and resources
 
+## General (Uncategorized)
+
 ## Articles & Blogs
 * [IQDevs Blog](https://iqdevs.github.io)
 
@@ -37,8 +39,6 @@ A collection if IQDevs community-gathered tools and resources
 
 ## Embedded Systems
 * [PlatformIO](http://platformio.org/)
-
-## General (Uncategorized)
 
 ## Hacking & Security
 * [Linux Audit](https://linux-audit.com/)
