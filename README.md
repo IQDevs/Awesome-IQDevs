@@ -41,8 +41,11 @@ A collection of IQDevs community-gathered tools and resources
 * [RethinkDB](https://www.rethinkdb.com/)
 * [memcached](https://memcached.org/)
 
-## Development Environments
+## Virtual Machine Generators
 * [Vagrant](https://www.vagrantup.com)
+
+## Microkernels
+* [IncludeOS](www.includeos.org/)
 
 ## Educational Platforms & Courses
 * [Code Academy](https://www.codecademy.com)
@@ -68,6 +71,10 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Web Development
 * [React](https://facebook.github.io/react/)
+* [Django](https://www.djangoproject.com/)
+* [Django REST Framework](www.django-rest-framework.org/)
+* [Flask](flask.pocoo.org/)
+* [Falcon](https://falconframework.org/)
 
 ## Resources
 * [DevDocs](http://devdocs.io/)
