@@ -30,7 +30,11 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Databases
 * [Redis](https://redis.io/)
+* [RocksDB](rocksdb.org/)
 * [PouchDB](https://pouchdb.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [RethinkDB](https://www.rethinkdb.com/)
+* [memcached](https://memcached.org/)
 
 ## Development Environments
 * [Vagrant](https://www.vagrantup.com)
