@@ -7,6 +7,16 @@ A collection of IQDevs community-gathered tools and resources
 * [IQDevs Blog](https://iqdevs.github.io)
 * [Facebook Code](https://code.facebook.com/)
 
+## Editors
+* [Atom](atom.io)
+* [VSCode](https://code.visualstudio.com/)
+* [Codepen](https://codepen.io)
+* [JSFiddle](jsfiddle.net)
+* [Cloud9](https://c9.io)
+* [Stackblitz](https://stackblitz.com/)
+* [SpaceVim](http://spacevim.org/)
+* [Spacemacs](http://spacevim.org/)
+
 ## Analytics
 * [Jetbrains Decompiler](jetbrains.com/decompiler/)
 * [Valgrind](http://valgrind.org)
@@ -24,12 +34,6 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Development Environments
 * [Vagrant](https://www.vagrantup.com)
-* [Codepen](https://codepen.io)
-* [JSFiddle](jsfiddle.net)
-* [Cloud9](https://c9.io)
-* [Stackblitz](https://stackblitz.com/)
-* [SpaceVim](http://spacevim.org/)
-* [Spacemacs](http://spacevim.org/)
 
 ## Educational Platforms & Courses
 * [Code Academy](https://www.codecademy.com)
