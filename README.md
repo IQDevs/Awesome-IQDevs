@@ -1,5 +1,5 @@
 # awesome-IQDevs
-A collection if IQDevs community-gathered tools and resources
+A collection of IQDevs community-gathered tools and resources
 
 ## General (Uncategorized)
 
