@@ -31,6 +31,7 @@ A collection of IQDevs community-gathered tools and resources
 ## Databases
 * [Redis](https://redis.io/)
 * [RocksDB](rocksdb.org/)
+* [Graph Engine](https://www.graphengine.io/)
 * [PouchDB](https://pouchdb.com/)
 * [MongoDB](https://www.mongodb.com/)
 * [RethinkDB](https://www.rethinkdb.com/)
@@ -53,11 +54,13 @@ A collection of IQDevs community-gathered tools and resources
 * [Linux Audit](https://linux-audit.com/)
 
 ## Mobile Development
+* [React Native](https://facebook.github.io/react-native/)
 
 ## System Programming
 * [Rust](https://www.rust-lang.org/en-US/)
 
 ## Web Development
+* [React](https://facebook.github.io/react/)
 
 ## Resources
 * [DevDocs](http://devdocs.io/)
