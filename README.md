@@ -1,8 +1,6 @@
 # awesome-IQDevs
 A collection of IQDevs community-gathered tools and resources
 
-## General (Uncategorized)
-
 ## Articles & Blogs
 * [IQDevs Blog](https://iqdevs.github.io)
 * [Facebook Code](https://code.facebook.com/)
