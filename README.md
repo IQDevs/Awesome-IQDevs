@@ -25,7 +25,7 @@ A collection of IQDevs community-gathered tools and resources
 * [AppVeyor](https://www.appveyor.com/) : Continuous Integration and Deployment service for busy Windows developers
 * [Codeship](http://codeship.com/) : Continuous Integration and Delivery made simple
 * [CircleCI](https://circleci.com) : CircleCI’s continuous integration and delivery platform helps software teams rapidly release code with confidence
-* [Visual Studio Mobile Center](https://mobile.azure.com)
+* [Visual Studio Mobile Center](https://mobile.azure.com/login?original_url=%2F)
 * [Jenkins](https://jenkins.io) : An extendable open source continuous integration server
 
 ## Editors
@@ -45,11 +45,11 @@ A collection of IQDevs community-gathered tools and resources
 * [osquery](https://osquery.io) : Expose the operating system as a relational database (by Facebook)
 
 ## Cloud Services
-* [Heroku](https://heroku.com) : Build, deliver, monitor and scale web apps and APIs with a trail blazing developer experience
+* [Heroku](https://www.heroku.com/) : Build, deliver, monitor and scale web apps and APIs with a trail blazing developer experience
 * [Clever Cloud](https://www.clever-cloud.com/)
 * [Deepstream](https://deepstreamhub.com/open-source/) : deepstream is a powerful websocket server that syncs realtime data between browsers, smartphones, backends and the IoT
 * [Surge](https://surge.sh/) : Static web publishing for Front-End Developers
-* [Now](https://now.sh) : Realtime global deployments - _Zeit_
+* [Now](https://zeit.co/now/) : Realtime global deployments - _Zeit_
 * [Uploadcare](https://uploadcare.com) : Uploadcare handles files so you don't have to
 * [Uppy](https://uppy.io/) : The next open source file uploader for web browsers
 * [SendGrid](https://sendgrid.com) : Email Delivery. Simplified
@@ -89,14 +89,14 @@ A collection of IQDevs community-gathered tools and resources
 * [Code Academy](https://www.codecademy.com)
 * [hackr.io](https://hackr.io) : Find and share the best online programming courses and tutorials
 * [Microsoft MVA](https://mva.microsoft.com) : Free Microsoft training delivered by experts
-* [Pluralsight](https://pluralsight.com) : Pluralsight focuses on providing high-quality online training for hardcore developers and IT professionals.
+* [Pluralsight](http://www.pluralsight.com/) : Pluralsight focuses on providing high-quality online training for hardcore developers and IT professionals.
 * [Egghead](https://egghead.io) : Learn JavaScript for web development with AngularJS, React, D3, and other modern tools.
 
 ## programming Languages
 * [Rust](https://www.rust-lang.org/en-US/) : Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety
 * [Python](https://www.python.org) : Python is a clear and powerful object-oriented programming language, comparable to Perl, Ruby, Scheme, or Java
 * [TypeScript](http://www.typescriptlang.org) : A superset of JavaScript that compiles to clean JavaScript output
-* [Node.js](https://nodejs.org) : Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications
+* [Node.js](https://nodejs.org/en/) : Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications
 * [Go](https://golang.org) : An open source programming language that makes it easy to build simple, reliable, and efficient software
 * [Kotlin](https://kotlinlang.org) : Statically typed programming language for modern multiplatform applications
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/) : Simple, general-purpose, object-oriented programming language
