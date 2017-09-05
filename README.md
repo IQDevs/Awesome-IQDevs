@@ -24,6 +24,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Travis CI](https://travis-ci.org) : A hosted continuous integration service for open source and private projects
 * [AppVeyor](https://www.appveyor.com/) : Continuous Integration and Deployment service for busy Windows developers
 * [Codeship](http://codeship.com/) : Continuous Integration and Delivery made simple
+* [CircleCI](https://circleci.com) : CircleCI’s continuous integration and delivery platform helps software teams rapidly release code with confidence
 * [Visual Studio Mobile Center](https://mobile.azure.com)
 * [Jenkins](https://jenkins.io) : An extendable open source continuous integration server
 
