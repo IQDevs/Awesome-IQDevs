@@ -19,7 +19,6 @@ A collection of IQDevs community-gathered tools and resources
   * [Falcon](https://falconframework.org/)
   * [Ktor](http://ktor.io) : Web backend framework for Kotlin
 
-
 ## Continuous Integration
 * [Travis CI](https://travis-ci.org)
 * [AppVeyor](https://www.appveyor.com/)
@@ -64,6 +63,7 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Virtual Machine Generators
 * [Vagrant](https://www.vagrantup.com)
+* [Docker](https://www.docker.com/) : An open source project to pack, ship and run any application as a lightweight container
 
 ## Microkernels
 * [IncludeOS](www.includeos.org/)
@@ -75,6 +75,14 @@ A collection of IQDevs community-gathered tools and resources
 * [Pluralsight](https://pluralsight.com)
 * [Egghead](https://egghead.io)
 
+## programming Languages
+* [Rust](https://www.rust-lang.org/en-US/) : Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
+* [Python](https://www.python.org) : Python is a clear and powerful object-oriented programming language, comparable to Perl, Ruby, Scheme, or Java.
+* [TypeScript](http://www.typescriptlang.org) : A superset of JavaScript that compiles to clean JavaScript output
+* [Node.js](https://nodejs.org) : Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications
+* [Go](https://golang.org) : An open source programming language that makes it easy to build simple, reliable, and efficient software
+* [Kotlin](https://kotlinlang.org) : Statically typed programming language for modern multiplatform applications
+
 ## Embedded Systems
 * [PlatformIO](http://platformio.org/)
 
@@ -83,6 +91,7 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Mobile Development
 * [React Native](https://facebook.github.io/react-native/)
+* [Kotlin](https://kotlinlang.org) : Statically typed programming language for modern multiplatform applications
 
 ## Desktop Programming
 * [Electron](https://electron.atom.io)
