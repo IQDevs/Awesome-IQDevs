@@ -80,7 +80,7 @@ A collection of IQDevs community-gathered tools and resources
 * [mLabs](https://mlab.com/) : MongoDB Hosting: Database-as-a-Service
 * [Realm](https://realm.io) : Realm makes it easy to build reactive apps, realtime collaborative features, and offline-first experiences
 
-## Virtual Machine Generators
+## Build/Deployment Environments
 * [Vagrant](https://www.vagrantup.com) : A tool for building and distributing development environments
 * [Docker](https://www.docker.com/) : An open source project to pack, ship and run any application as a lightweight container
 
