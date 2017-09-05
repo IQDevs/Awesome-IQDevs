@@ -37,11 +37,12 @@ A collection of IQDevs community-gathered tools and resources
 * [Spacemacs](http://spacevim.org/)
 
 ## Analytics
-* [Valgrind](http://valgrind.org) : Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools.
+* [Valgrind](http://valgrind.org) : Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools
 * [Jetbrains Decompiler](jetbrains.com/decompiler/)
 * [Walktime](https://wakatime.com)
 
 ## Cloud Services
+* [Heroku](https://heroku.com) : Build, deliver, monitor and scale web apps and APIs with a trail blazing developer experience
 * [Clever Cloud](https://www.clever-cloud.com/)
 * [Surge](https://surge.sh/)
 * [Now](https://now.sh) : Realtime global deployments - _Zeit_
