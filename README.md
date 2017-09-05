@@ -30,7 +30,7 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Editors
 * [Atom](atom.io) : A hackable text editor for the 21st Century
-* [VSCode](https://code.visualstudio.com/)
+* [Visual Studio Code](https://code.visualstudio.com/) : Build and debug modern web and cloud applications, by Microsoft
 * [Codepen](https://codepen.io)
 * [JSFiddle](jsfiddle.net)
 * [Cloud9](https://c9.io) : Your development environment, in the cloud
@@ -74,6 +74,7 @@ A collection of IQDevs community-gathered tools and resources
 * [memcached](https://memcached.org/) : High-performance, distributed memory object caching system
 * [h2](http://www.h2database.com) : H2 is free SQL database written in Java
 * [mLabs](https://mlab.com/) : MongoDB Hosting: Database-as-a-Service
+* [Realm](https://realm.io) : Realm makes it easy to build reactive apps, realtime collaborative features, and offline-first experiences
 
 ## Virtual Machine Generators
 * [Vagrant](https://www.vagrantup.com) : A tool for building and distributing development environments
