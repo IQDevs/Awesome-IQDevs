@@ -52,14 +52,16 @@ A collection of IQDevs community-gathered tools and resources
 * [Deepstream](https://deepstreamhub.com/open-source/) : deepstream is a powerful websocket server that syncs realtime data between browsers, smartphones, backends and the IoT
 * [Surge](https://surge.sh/) : Static web publishing for Front-End Developers
 * [Now](https://zeit.co/now) : Realtime global deployments - _Zeit_
-* [Uploadcare](https://uploadcare.com) : Uploadcare handles files so you don't have to
-* [Uppy](https://uppy.io/) : The next open source file uploader for web browsers
 * [SendGrid](https://sendgrid.com) : Email Delivery. Simplified
 * [OneSignal](https://onesignal.com/) : Free Mobile and Web Push Notifications
 * [Twilio](https://www.twilio.com) : Twilio brings voice and messaging to your web and mobile applications
 * [Pusher](https://pusher.com) : Build awesome realtime web and mobile apps
 * [Firebase](https://firebase.google.com) : The Realtime App Platform
 * [mLabs](https://mlab.com/) : MongoDB Hosting: Database-as-a-Service
+### File Sharing
+* [Dropbox](https://www.dropbox.com/developers) : Build the power of Dropbox into your apps
+* [Uploadcare](https://uploadcare.com) : Uploadcare handles files so you don't have to
+* [Uppy](https://uppy.io/) : The next open source file uploader for web browsers
 
 ## Static-Site Generators
 * [Hexo](https://hexo.io) : A fast, simple & powerful blog framework
@@ -124,6 +126,10 @@ A collection of IQDevs community-gathered tools and resources
 * [Rust](https://www.rust-lang.org/en-US/) : Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety
 * [C](https://en.wikipedia.org/wiki/C_(programming_language)) : One of the most widely used programming languages of all time
 * [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
+
+## Collaboration
+* [Gitter](https://gitter.im) : Messaging for people who make software. Integrated with your team, projects and your code.
+* [Discord](https://discordapp.com/) : All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone
 
 ## Icons
 * [Feather](https://github.com/colebemis/feather): Simply beautiful open source icons
