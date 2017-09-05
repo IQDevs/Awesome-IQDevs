@@ -42,6 +42,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Valgrind](http://valgrind.org) : Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools
 * [Jetbrains Decompiler](jetbrains.com/decompiler/)
 * [Walktime](https://wakatime.com)
+* [osquery](https://osquery.io) : Expose the operating system as a relational database (by Facebook)
 
 ## Cloud Services
 * [Heroku](https://heroku.com) : Build, deliver, monitor and scale web apps and APIs with a trail blazing developer experience
