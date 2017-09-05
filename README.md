@@ -20,10 +20,11 @@ A collection of IQDevs community-gathered tools and resources
   * [Ktor](http://ktor.io) : Web backend framework for Kotlin
 
 ## Continuous Integration
-* [Travis CI](https://travis-ci.org)
-* [AppVeyor](https://www.appveyor.com/)
-* [Codeship](http://codeship.com/)
+* [Travis CI](https://travis-ci.org) : A hosted continuous integration service for open source and private projects
+* [AppVeyor](https://www.appveyor.com/) : Continuous Integration and Deployment service for busy Windows developers
+* [Codeship](http://codeship.com/) : Continuous Integration and Delivery made simple
 * [Visual Studio Mobile Center](https://mobile.azure.com)
+* [Jenkins](https://jenkins.io) : An extendable open source continuous integration server
 
 ## Editors
 * [Atom](atom.io)
@@ -36,8 +37,8 @@ A collection of IQDevs community-gathered tools and resources
 * [Spacemacs](http://spacevim.org/)
 
 ## Analytics
+* [Valgrind](http://valgrind.org) : Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools.
 * [Jetbrains Decompiler](jetbrains.com/decompiler/)
-* [Valgrind](http://valgrind.org)
 * [Walktime](https://wakatime.com)
 
 ## Cloud Services
