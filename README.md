@@ -34,8 +34,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Atom](atom.io) : A hackable text editor for the 21st Century
 * [Visual Studio Code](https://code.visualstudio.com/) : Build and debug modern web and cloud applications, by Microsoft
 * [Codepen](https://codepen.io)
-* [JSFiddle](jsfiddle.net)
-* [Cloud9](https://c9.io) : Your development environment, in the cloud
+* [Cloud9 IDE](https://c9.io) : Your development environment, in the cloud
 * [Stackblitz](https://stackblitz.com/)
 * [SpaceVim](http://spacevim.org/) : SpaceVim is a Modular configuration, a bundle of custom settings and plugins, for Vim. It got inspired by spacemacs.
 * [Spacemacs](http://spacevim.org/) : Emacs advanced Kit focused on Evil: The best editor is neither Emacs nor Vim, it's Emacs and Vim
