@@ -51,6 +51,12 @@ A collection of IQDevs community-gathered tools and resources
 * [Now](https://now.sh) : Realtime global deployments - _Zeit_
 * [Uploadcare](https://uploadcare.com) : Uploadcare handles files so you don't have to
 * [Uppy](https://uppy.io/) : The next open source file uploader for web browsers
+* [SendGrid](https://sendgrid.com) : Email Delivery. Simplified
+* [OneSignal](https://onesignal.com/) : Free Mobile and Web Push Notifications
+* [Twilio](https://www.twilio.com) : Twilio brings voice and messaging to your web and mobile applications
+* [Pusher](https://pusher.com) : Build awesome realtime web and mobile apps
+* [Firebase](https://firebase.google.com) : The Realtime App Platform
+ * [mLabs](https://mlab.com/) : MongoDB Hosting: Database-as-a-Service
 
 ## Static-site generators
 * [Hexo](https://hexo.io) : A fast, simple & powerful blog framework
@@ -65,6 +71,7 @@ A collection of IQDevs community-gathered tools and resources
 * [RethinkDB](https://www.rethinkdb.com/) : JSON. Scales to multiple machines with very little effort. Open source
 * [memcached](https://memcached.org/) : High-performance, distributed memory object caching system
 * [h2](http://www.h2database.com) : H2 is free SQL database written in Java
+* [mLabs](https://mlab.com/) : MongoDB Hosting: Database-as-a-Service
 
 ## Virtual Machine Generators
 * [Vagrant](https://www.vagrantup.com) : A tool for building and distributing development environments
