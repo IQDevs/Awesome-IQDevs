@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/IQDevs/awesome-IQDevs.svg?branch=master)](https://travis-ci.org/IQDevs/awesome-IQDevs)
+[![Build Status](https://api.travis-ci.org/IQDevs/awesome-IQDevs.svg?branch=master)](https://travis-ci.org/IQDevs/awesome-IQDevs)
 
 # Awesome-IQDevs
 A collection of IQDevs community-gathered tools and resources
@@ -51,7 +51,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Clever Cloud](https://www.clever-cloud.com/)
 * [Deepstream](https://deepstreamhub.com/open-source/) : deepstream is a powerful websocket server that syncs realtime data between browsers, smartphones, backends and the IoT
 * [Surge](https://surge.sh/) : Static web publishing for Front-End Developers
-* [Now](https://zeit.co/now/) : Realtime global deployments - _Zeit_
+* [Now](https://zeit.co/now) : Realtime global deployments - _Zeit_
 * [Uploadcare](https://uploadcare.com) : Uploadcare handles files so you don't have to
 * [Uppy](https://uppy.io/) : The next open source file uploader for web browsers
 * [SendGrid](https://sendgrid.com) : Email Delivery. Simplified
@@ -91,7 +91,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Code Academy](https://www.codecademy.com)
 * [hackr.io](https://hackr.io) : Find and share the best online programming courses and tutorials
 * [Microsoft MVA](https://mva.microsoft.com) : Free Microsoft training delivered by experts
-* [Pluralsight](http://www.pluralsight.com/) : Pluralsight focuses on providing high-quality online training for hardcore developers and IT professionals.
+* [Pluralsight](https://www.pluralsight.com/) : Pluralsight focuses on providing high-quality online training for hardcore developers and IT professionals.
 * [Egghead](https://egghead.io) : Learn JavaScript for web development with AngularJS, React, D3, and other modern tools.
 
 ## programming Languages
