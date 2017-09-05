@@ -61,7 +61,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Firebase](https://firebase.google.com) : The Realtime App Platform
 * [mLabs](https://mlab.com/) : MongoDB Hosting: Database-as-a-Service
 
-## Static-site generators
+## Static-Site Generators
 * [Hexo](https://hexo.io) : A fast, simple & powerful blog framework
 * [Hugo](http://gohugo.io) : The world’s fastest framework for building websites
 * [Docsify](https://docsify.js.org) : A documentation site generator without the static html files
