@@ -5,8 +5,9 @@ A collection of IQDevs community-gathered tools and resources
 * [IQDevs Blog](https://iqdevs.github.io)
 * [Facebook Code](https://code.facebook.com/)
 * [Office Dev Center](https://dev.office.com/) : Connect to the latest conferences, training, and blog posts for Office 365, Office 365 client, and SharePoint developers
-  ### Developers articles
-  * [How GitHub Works: Hours are Bullshit](https://zachholman.com/posts/how-github-works-hours/)
+
+### Developers articles
+* [How GitHub Works: Hours are Bullshit](https://zachholman.com/posts/how-github-works-hours/)
 
 ## Web Development
 ### Front-end
