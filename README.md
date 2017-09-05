@@ -56,11 +56,12 @@ A collection of IQDevs community-gathered tools and resources
 * [Twilio](https://www.twilio.com) : Twilio brings voice and messaging to your web and mobile applications
 * [Pusher](https://pusher.com) : Build awesome realtime web and mobile apps
 * [Firebase](https://firebase.google.com) : The Realtime App Platform
- * [mLabs](https://mlab.com/) : MongoDB Hosting: Database-as-a-Service
+* [mLabs](https://mlab.com/) : MongoDB Hosting: Database-as-a-Service
 
 ## Static-site generators
 * [Hexo](https://hexo.io) : A fast, simple & powerful blog framework
 * [Hugo](http://gohugo.io) : The world’s fastest framework for building websites
+* [Docsify](https://docsify.js.org) : A documentation site generator without the static html files
 
 ## Databases
 * [Redis](https://redis.io/) : An in-memory database that persists on disk
@@ -109,7 +110,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Linux Audit](https://linux-audit.com/)
 
 ## Mobile Development
-* [React Native](https://facebook.github.io/react-native/)
+* [React Native](https://facebook.github.io/react-native/) : A framework for building native apps with React
 * [Kotlin](https://kotlinlang.org) : Statically typed programming language for modern multiplatform applications
 
 ## Desktop Programming
