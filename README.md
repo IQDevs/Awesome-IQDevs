@@ -88,9 +88,14 @@ A collection of IQDevs community-gathered tools and resources
 * [Node.js](https://nodejs.org) : Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications
 * [Go](https://golang.org) : An open source programming language that makes it easy to build simple, reliable, and efficient software
 * [Kotlin](https://kotlinlang.org) : Statically typed programming language for modern multiplatform applications
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/) : Simple, general-purpose, object-oriented programming language
+* [C](https://en.wikipedia.org/wiki/C_(programming_language)) : One of the most widely used programming languages of all time
+* [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
 
 ## Embedded Systems
-* [PlatformIO](http://platformio.org/) : PlatformIO is an open source ecosystem for IoT development. Cross-platform build system and library manager. Continuous and IDE integration. Arduino and MBED compatible. Ready for Cloud compiling
+* [PlatformIO](http://platformio.org/) : PlatformIO is an open source ecosystem for IoT development. Cross-platform build system and library manager. Continuous and IDE integration. Arduino and MBED compatible. Ready for Cloud compiling.
+* [C](https://en.wikipedia.org/wiki/C_(programming_language)) : One of the most widely used programming languages of all time
+* [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
 
 ## Hacking & Security
 * [Linux Audit](https://linux-audit.com/)
@@ -104,9 +109,11 @@ A collection of IQDevs community-gathered tools and resources
 
 ## System Programming
 * [Rust](https://www.rust-lang.org/en-US/) : Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety
+* [C](https://en.wikipedia.org/wiki/C_(programming_language)) : One of the most widely used programming languages of all time
+* [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
 
 ## Icons
 * [Feather](https://github.com/colebemis/feather): Simply beautiful open source icons
 
 ## Resources
-* [DevDocs](http://devdocs.io/)
+* [DevDocs](http://devdocs.io/) : Open source API documentation browser with instant fuzzy search, offline mode, keyboard shortcuts, and more
