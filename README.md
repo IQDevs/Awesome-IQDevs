@@ -88,7 +88,7 @@ A collection of IQDevs community-gathered tools and resources
 * [edX](https://www.edx.org) : edX is a not-for-profit enterprise of its founding partners, the Massachusetts Institute of Technology (MIT) and Harvard University that offers online learning to on-campus students and to millions of people around the world
 * [Code Academy](https://www.codecademy.com)
 * [hackr.io](https://hackr.io) : Find and share the best online programming courses and tutorials
-* [Microsoft MVA](https://mva.microsoft.com)
+* [Microsoft MVA](https://mva.microsoft.com) : Free Microsoft training delivered by experts
 * [Pluralsight](https://pluralsight.com) : Pluralsight focuses on providing high-quality online training for hardcore developers and IT professionals.
 * [Egghead](https://egghead.io) : Learn JavaScript for web development with AngularJS, React, D3, and other modern tools.
 
