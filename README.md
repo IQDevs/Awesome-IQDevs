@@ -144,7 +144,7 @@ A collection of IQDevs community-gathered tools and resources
 ## Educational Platforms & Courses
 * [Coursera](https://www.coursera.org) : Coursera is a for-profit educational technology company offering massive open online courses founded by computer science professors Andrew Ng and Daphne Koller from Stanford University.
 * [edX](https://www.edx.org) : edX is a not-for-profit enterprise of its founding partners, the Massachusetts Institute of Technology (MIT) and Harvard University that offers online learning to on-campus students and to millions of people around the world
-* [Code Academy](https://www.codecademy.com)
+* [Code Academy](https://www.codecademy.com) : Codecademy is an online interactive platform that offers free coding classes in 12 different programming languages including Python, Java, PHP, JavaScript, Ruby, SQL, and Sass, as well as markup languages HTML and CSS
 * [hackr.io](https://hackr.io) : Find and share the best online programming courses and tutorials
 * [Microsoft MVA](https://mva.microsoft.com) : Free Microsoft training delivered by experts
 * [Pluralsight](https://www.pluralsight.com/) : Pluralsight focuses on providing high-quality online training for hardcore developers and IT professionals.
