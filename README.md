@@ -117,6 +117,8 @@ A collection of IQDevs community-gathered tools and resources
 ## Mobile Development
 * [React Native](https://facebook.github.io/react-native/) : A framework for building native apps with React
 * [Kotlin](https://kotlinlang.org) : Statically typed programming language for modern multiplatform applications
+* [Swift](https://developer.apple.com/swift/) : Swift is a powerful and intuitive programming language for macOS, iOS, watchOS and tvOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design, yet also produces software that runs lightning-fast.
+* [Xamarin](https://www.xamarin.com/) : Build & design a mobile app using Xamarin's cross-platform development software which simplifies mobile application creation. Download a free trial today
 
 ## Desktop Programming
 * [Electron](https://electron.atom.io) : Build cross platform desktop apps with web technologies. Formerly known as Atom Shell, made by GitHub.
