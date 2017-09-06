@@ -4,9 +4,10 @@
 A collection of IQDevs community-gathered tools and resources
 
 ## Articles & Blogs
-* [IQDevs Blog](https://iqdevs.github.io)
-* [Facebook Code](https://code.facebook.com/)
+* [IQDevs Blog](https://iqdevs.github.io) : Official IQDevs developer blog
+* [Facebook Code](https://code.facebook.com/) : Official Facebook developer blog
 * [Office Dev Center](https://dev.office.com/) : Connect to the latest conferences, training, and blog posts for Office 365, Office 365 client, and SharePoint developers
+* [Linux Audit](https://linux-audit.com/) : The Linux security blog covering system hardening, security audits, and compliance. Learn Linux security and apply it yourself
 
 ### Developers articles
 * [How GitHub Works: Hours are Bullshit](https://zachholman.com/posts/how-github-works-hours/)
@@ -29,16 +30,16 @@ A collection of IQDevs community-gathered tools and resources
 * [CircleCI](https://circleci.com) : CircleCI’s continuous integration and delivery platform helps software teams rapidly release code with confidence
 * [Dependency CI](https://dependencyci.com) : Automatic compliance testing for all of the dependencies in your application.
   Sign Up with GitHub
-* [Visual Studio Mobile Center](https://mobile.azure.com/login?original_url=%2F)
+* [Visual Studio Mobile Center](https://mobile.azure.com/login?original_url=%2F) : Automate your app lifecycle in a few easy steps
 * [Greenkeeper](https://greenkeeper.io) : GET SAFETY & CONSISTENCY WITH REAL-TIME MONITORING AND AUTOMATIC UPDATES FOR NPM DEPENDENCIES
 * [Jenkins](https://jenkins.io) : An extendable open source continuous integration server
 
 ## Editors
 * [Atom](atom.io) : A hackable text editor for the 21st Century
 * [Visual Studio Code](https://code.visualstudio.com/) : Build and debug modern web and cloud applications, by Microsoft
-* [Codepen](https://codepen.io)
+* [Codepen](https://codepen.io) : Social development environment for front-end designers and developers
 * [Cloud9 IDE](https://c9.io) : Your development environment, in the cloud
-* [Stackblitz](https://stackblitz.com/)
+* [Stackblitz](https://stackblitz.com/) : Online VS Code Editor for Angular and React
 * [SpaceVim](http://spacevim.org/) : SpaceVim is a Modular configuration, a bundle of custom settings and plugins, for Vim. It got inspired by spacemacs.
 * [Spacemacs](http://spacevim.org/) : Emacs advanced Kit focused on Evil: The best editor is neither Emacs nor Vim, it's Emacs and Vim
 
@@ -47,7 +48,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Coverity](https://scan.coverity.com/) : Find and fix defects in your Java, C/C++, C#, JavaScript, Ruby, or Python open source project for free
 * [Coveralls](https://coveralls.io/) : Track your project's code coverage over time, changes to files, and badge your GitHub repo
 * [Jetbrains Decompiler](jetbrains.com/decompiler/)
-* [Walktime](https://wakatime.com)
+* [WakeTime](https://wakatime.com) : Quantify Your Coding. Open-source plugins for automatic time tracking & insights into your programming
 * [osquery](https://osquery.io) : Expose the operating system as a relational database (by Facebook)
 
 ## Cloud Services
@@ -89,7 +90,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Docker](https://www.docker.com/) : An open source project to pack, ship and run any application as a lightweight container
 
 ## Microkernels
-* [IncludeOS](www.includeos.org/)
+* [IncludeOS](www.includeos.org/) : A performant, minimal unikernel operating system for the cloud
 
 ## programming Languages
 * [Rust](https://www.rust-lang.org/en-US/) : Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety
@@ -113,7 +114,7 @@ A collection of IQDevs community-gathered tools and resources
 * [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
 
 ## Hacking & Security
-* [Linux Audit](https://linux-audit.com/)
+* [Linux Audit](https://linux-audit.com/) : The Linux security blog covering system hardening, security audits, and compliance. Learn Linux security and apply it yourself
 * [Snyk](https://snyk.io) : Fix vulnerabilities in Node & npm dependencies with a click
 
 ## Mobile Development
