@@ -115,6 +115,7 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Hacking & Security
 * [Linux Audit](https://linux-audit.com/)
+* [Snyk](https://snyk.io) : Fix vulnerabilities in Node & npm dependencies with a click
 
 ## Mobile Development
 * [React Native](https://facebook.github.io/react-native/) : A framework for building native apps with React
@@ -131,8 +132,11 @@ A collection of IQDevs community-gathered tools and resources
 * [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
 
 ## Collaboration
+### Communication
 * [Gitter](https://gitter.im) : Messaging for people who make software. Integrated with your team, projects and your code.
 * [Discord](https://discordapp.com/) : All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone
+### Project Management
+* [Waffle](https://waffle.io) : Simple project management for your GitHub issues, free for open source
 
 ## Icons
 * [Feather](https://github.com/colebemis/feather): Simply beautiful open source icons
