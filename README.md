@@ -33,6 +33,8 @@ A collection of IQDevs community-gathered tools and resources
   Sign Up with GitHub
 * [Visual Studio Mobile Center](https://mobile.azure.com/login?original_url=%2F) : Automate your app lifecycle in a few easy steps
 * [Greenkeeper](https://greenkeeper.io) : GET SAFETY & CONSISTENCY WITH REAL-TIME MONITORING AND AUTOMATIC UPDATES FOR NPM DEPENDENCIES
+* [Buddy](https://buddy.works/) : Git platform for web and software developers with Docker-based tools for Continuous Integration and Deployment
+* [Semaphore](https://semaphoreci.com) : Hosted continuous integration and deployment app for Ruby
 * [Jenkins](https://jenkins.io) : An extendable open source continuous integration server
 
 ## Editors
