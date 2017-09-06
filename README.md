@@ -55,6 +55,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Heroku](https://www.heroku.com/) : Build, deliver, monitor and scale web apps and APIs with a trail blazing developer experience
 * [Clever Cloud](https://www.clever-cloud.com/) : Deploy and run apps with bulletproof infrastructure, automatic scaling, and fair pricing
 * [Deepstream](https://deepstreamhub.com/open-source/) : deepstream is a powerful websocket server that syncs realtime data between browsers, smartphones, backends and the IoT
+* [Parse](http://parseplatform.org/) : The complete mobile app platform
 * [Surge](https://surge.sh/) : Static web publishing for Front-End Developers
 * [Now](https://zeit.co/now) : Realtime global deployments - _Zeit_
 * [SendGrid](https://sendgrid.com) : Email Delivery. Simplified
@@ -133,8 +134,9 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Collaboration
 ### Communication
-* [Gitter](https://gitter.im) : Messaging for people who make software. Integrated with your team, projects and your code.
-* [Discord](https://discordapp.com/) : All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone
+* [Gitter](https://gitter.im) : Messaging for people who make software. Integrated with your team, projects and your code
+* [Slack](https://slack.com) : Slack brings all your communication together in one place
+* [Discord](https://discordapp.com) : All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone
 ### Project Management
 * [Waffle](https://waffle.io) : Simple project management for your GitHub issues, free for open source
 
