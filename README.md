@@ -105,7 +105,6 @@ A collection of IQDevs community-gathered tools and resources
 ## Package Managers
 * [NPM](https://www.npmjs.com/) : The package manager for JavaScript
 * [Yarn](https://yarnpkg.com/en/) : A new package manager for JavaScript
-* [Cargo](https://crates.io) : The Rust package manager
 * [Brew](https://brew.sh/) : The missing package manager for macOS
 
 ## Embedded Systems
