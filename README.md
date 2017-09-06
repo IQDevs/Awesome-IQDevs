@@ -12,10 +12,10 @@ A collection of IQDevs community-gathered tools and resources
 * [How GitHub Works: Hours are Bullshit](https://zachholman.com/posts/how-github-works-hours/)
 
 ## Web Development
-### Front-end
+### Front-End
   * [React](https://facebook.github.io/react/) : A JavaScript library for building user interfaces
   * [Vue.js](https://vuejs.org) : The Progressive JavaScript Framework
-### Back-end
+### Back-End
   * [Django](https://www.djangoproject.com/) : The Web framework for perfectionists with deadlines
   * [Django REST Framework](www.django-rest-framework.org/) : Web APIs for Django
   * [Flask](flask.pocoo.org/) : A microframework for Python based on Werkzeug, Jinja 2 and good intentions
@@ -43,6 +43,8 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Analytics
 * [Valgrind](http://valgrind.org) : Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools
+* [Coverity](https://scan.coverity.com/) : Find and fix defects in your Java, C/C++, C#, JavaScript, Ruby, or Python open source project for free
+* [Coveralls](https://coveralls.io/) : Track your project's code coverage over time, changes to files, and badge your GitHub repo
 * [Jetbrains Decompiler](jetbrains.com/decompiler/)
 * [Walktime](https://wakatime.com)
 * [osquery](https://osquery.io) : Expose the operating system as a relational database (by Facebook)
@@ -88,15 +90,6 @@ A collection of IQDevs community-gathered tools and resources
 ## Microkernels
 * [IncludeOS](www.includeos.org/)
 
-## Educational Platforms & Courses
-* [Coursera](https://www.coursera.org) : Coursera is a for-profit educational technology company offering massive open online courses founded by computer science professors Andrew Ng and Daphne Koller from Stanford University.
-* [edX](https://www.edx.org) : edX is a not-for-profit enterprise of its founding partners, the Massachusetts Institute of Technology (MIT) and Harvard University that offers online learning to on-campus students and to millions of people around the world
-* [Code Academy](https://www.codecademy.com)
-* [hackr.io](https://hackr.io) : Find and share the best online programming courses and tutorials
-* [Microsoft MVA](https://mva.microsoft.com) : Free Microsoft training delivered by experts
-* [Pluralsight](https://www.pluralsight.com/) : Pluralsight focuses on providing high-quality online training for hardcore developers and IT professionals.
-* [Egghead](https://egghead.io) : Learn JavaScript for web development with AngularJS, React, D3, and other modern tools.
-
 ## programming Languages
 * [Rust](https://www.rust-lang.org/en-US/) : Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety
 * [Python](https://www.python.org) : Python is a clear and powerful object-oriented programming language, comparable to Perl, Ruby, Scheme, or Java
@@ -107,6 +100,12 @@ A collection of IQDevs community-gathered tools and resources
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/) : Simple, general-purpose, object-oriented programming language
 * [C](https://en.wikipedia.org/wiki/C_(programming_language)) : One of the most widely used programming languages of all time
 * [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
+
+## Package Managers
+* [NPM](https://www.npmjs.com/) : The package manager for JavaScript
+* [Yarn](https://yarnpkg.com/en/) : A new package manager for JavaScript
+* [Cargo](https://crates.io/) : The Rust package manager
+* [Brew](https://brew.sh/) : The missing package manager for macOS
 
 ## Embedded Systems
 * [PlatformIO](http://platformio.org/) : PlatformIO is an open source ecosystem for IoT development. Cross-platform build system and library manager. Continuous and IDE integration. Arduino and MBED compatible. Ready for Cloud compiling.
@@ -140,6 +139,15 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Icons
 * [Feather](https://github.com/colebemis/feather): Simply beautiful open source icons
+
+## Educational Platforms & Courses
+* [Coursera](https://www.coursera.org) : Coursera is a for-profit educational technology company offering massive open online courses founded by computer science professors Andrew Ng and Daphne Koller from Stanford University.
+* [edX](https://www.edx.org) : edX is a not-for-profit enterprise of its founding partners, the Massachusetts Institute of Technology (MIT) and Harvard University that offers online learning to on-campus students and to millions of people around the world
+* [Code Academy](https://www.codecademy.com)
+* [hackr.io](https://hackr.io) : Find and share the best online programming courses and tutorials
+* [Microsoft MVA](https://mva.microsoft.com) : Free Microsoft training delivered by experts
+* [Pluralsight](https://www.pluralsight.com/) : Pluralsight focuses on providing high-quality online training for hardcore developers and IT professionals.
+* [Egghead](https://egghead.io) : Learn JavaScript for web development with AngularJS, React, D3, and other modern tools.
 
 ## Resources
 * [DevDocs](http://devdocs.io/) : Open source API documentation browser with instant fuzzy search, offline mode, keyboard shortcuts, and more
