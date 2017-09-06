@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/IQDevs/Awesome-IQDevs.svg?branch=master)](https://travis-ci.org/IQDevs/Awesome-IQDevs)
+[![Build Status](https://api.travis-ci.org/IQDevs/Awesome-IQDevs.svg?branch=master)](https://travis-ci.org/IQDevs/Awesome-IQDevs)
 
 # Awesome-IQDevs
 A collection of IQDevs community-gathered tools and resources
@@ -52,7 +52,7 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Cloud Services
 * [Heroku](https://www.heroku.com/) : Build, deliver, monitor and scale web apps and APIs with a trail blazing developer experience
-* [Clever Cloud](https://www.clever-cloud.com/)
+* [Clever Cloud](https://www.clever-cloud.com/) : Deploy and run apps with bulletproof infrastructure, automatic scaling, and fair pricing
 * [Deepstream](https://deepstreamhub.com/open-source/) : deepstream is a powerful websocket server that syncs realtime data between browsers, smartphones, backends and the IoT
 * [Surge](https://surge.sh/) : Static web publishing for Front-End Developers
 * [Now](https://zeit.co/now) : Realtime global deployments - _Zeit_
@@ -105,7 +105,7 @@ A collection of IQDevs community-gathered tools and resources
 ## Package Managers
 * [NPM](https://www.npmjs.com/) : The package manager for JavaScript
 * [Yarn](https://yarnpkg.com/en/) : A new package manager for JavaScript
-* [Cargo](https://crates.io/) : The Rust package manager
+* [Cargo](https://crates.io) : The Rust package manager
 * [Brew](https://brew.sh/) : The missing package manager for macOS
 
 ## Embedded Systems
