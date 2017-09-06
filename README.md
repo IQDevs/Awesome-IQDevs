@@ -47,7 +47,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Valgrind](http://valgrind.org) : Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools
 * [Coverity](https://scan.coverity.com/) : Find and fix defects in your Java, C/C++, C#, JavaScript, Ruby, or Python open source project for free
 * [Coveralls](https://coveralls.io/) : Track your project's code coverage over time, changes to files, and badge your GitHub repo
-* [Jetbrains Decompiler](jetbrains.com/decompiler/)
+* [Jetbrains Decompiler](jetbrains.com/decompiler/) : Standalone tool based on ReSharper's bundled decompiler
 * [WakeTime](https://wakatime.com) : Quantify Your Coding. Open-source plugins for automatic time tracking & insights into your programming
 * [osquery](https://osquery.io) : Expose the operating system as a relational database (by Facebook)
 
