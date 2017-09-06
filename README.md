@@ -141,7 +141,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Waffle](https://waffle.io) : Simple project management for your GitHub issues, free for open source
 
 ## Icons
-* [Feather](https://github.com/colebemis/feather): Simply beautiful open source icons
+* [Feather](https://github.com/colebemis/feather) : Simply beautiful open source icons
 
 ## Educational Platforms & Courses
 * [Coursera](https://www.coursera.org) : Coursera is a for-profit educational technology company offering massive open online courses founded by computer science professors Andrew Ng and Daphne Koller from Stanford University.
