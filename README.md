@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.org/IQDevs/awesome-IQDevs.svg?branch=master)](https://travis-ci.org/IQDevs/awesome-IQDevs)
+[![Build Status](https://travis-ci.org/IQDevs/Awesome-IQDevs.svg?branch=master)](https://travis-ci.org/IQDevs/Awesome-IQDevs)
 
 # Awesome-IQDevs
 A collection of IQDevs community-gathered tools and resources
