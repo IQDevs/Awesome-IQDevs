@@ -27,7 +27,8 @@ A collection of IQDevs community-gathered tools and resources
 * [AppVeyor](https://www.appveyor.com/) : Continuous Integration and Deployment service for busy Windows developers
 * [Codeship](http://codeship.com/) : Continuous Integration and Delivery made simple
 * [CircleCI](https://circleci.com) : CircleCI’s continuous integration and delivery platform helps software teams rapidly release code with confidence
-* [Dependency CI](https://dependencyci.com) : Continuous testing for your dependencies
+* [Dependency CI](https://dependencyci.com) : Automatic compliance testing for all of the dependencies in your application.
+  Sign Up with GitHub
 * [Visual Studio Mobile Center](https://mobile.azure.com/login?original_url=%2F)
 * [Greenkeeper](https://greenkeeper.io) : GET SAFETY & CONSISTENCY WITH REAL-TIME MONITORING AND AUTOMATIC UPDATES FOR NPM DEPENDENCIES
 * [Jenkins](https://jenkins.io) : An extendable open source continuous integration server
