@@ -68,11 +68,11 @@ A collection of IQDevs community-gathered tools and resources
 * [Pusher](https://pusher.com) : Build awesome realtime web and mobile apps
 * [Firebase](https://firebase.google.com) : The Realtime App Platform
 * [mLabs](https://mlab.com/) : MongoDB Hosting: Database-as-a-Service
-* [Microsoft Azure](https://azure.microsoft.com/en-us) : Azure is an open and flexible cloud platform that enables you to quickly build, deploy and manage applications across a global network of Microsoft-managed datacenters. You can build applications using any language, tool or framework. And you can integrate your public cloud applications with your existing IT environment
+* [Microsoft Azure](https://azure.microsoft.com/en-us/) : Azure is an open and flexible cloud platform that enables you to quickly build, deploy and manage applications across a global network of Microsoft-managed datacenters. You can build applications using any language, tool or framework. And you can integrate your public cloud applications with your existing IT environment
 
 ### File Sharing
 * [Dropbox](https://www.dropbox.com/developers) : Build the power of Dropbox into your apps
-* [Google Drive](https://developers.google.com/drive) : The Drive SDK gives you a group of APIs along with client libraries, language-specific examples, and documentation to help you develop apps that integrate with Drive. The core functionality of Drive apps is to download and upload files in Google Drive. However, the Drive SDK provides a lot more than just storage
+* [Google Drive](https://developers.google.com/drive/) : The Drive SDK gives you a group of APIs along with client libraries, language-specific examples, and documentation to help you develop apps that integrate with Drive. The core functionality of Drive apps is to download and upload files in Google Drive. However, the Drive SDK provides a lot more than just storage
 * [Uploadcare](https://uploadcare.com) : Uploadcare handles files so you don't have to
 * [Uppy](https://uppy.io/) : The next open source file uploader for web browsers
 
