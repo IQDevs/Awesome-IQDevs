@@ -68,8 +68,11 @@ A collection of IQDevs community-gathered tools and resources
 * [Pusher](https://pusher.com) : Build awesome realtime web and mobile apps
 * [Firebase](https://firebase.google.com) : The Realtime App Platform
 * [mLabs](https://mlab.com/) : MongoDB Hosting: Database-as-a-Service
+* [Microsoft Azure](https://azure.microsoft.com/en-us) : Azure is an open and flexible cloud platform that enables you to quickly build, deploy and manage applications across a global network of Microsoft-managed datacenters. You can build applications using any language, tool or framework. And you can integrate your public cloud applications with your existing IT environment
+
 ### File Sharing
 * [Dropbox](https://www.dropbox.com/developers) : Build the power of Dropbox into your apps
+* [Google Drive](https://developers.google.com/drive) : The Drive SDK gives you a group of APIs along with client libraries, language-specific examples, and documentation to help you develop apps that integrate with Drive. The core functionality of Drive apps is to download and upload files in Google Drive. However, the Drive SDK provides a lot more than just storage
 * [Uploadcare](https://uploadcare.com) : Uploadcare handles files so you don't have to
 * [Uppy](https://uppy.io/) : The next open source file uploader for web browsers
 
@@ -87,12 +90,14 @@ A collection of IQDevs community-gathered tools and resources
 * [RethinkDB](https://www.rethinkdb.com/) : JSON. Scales to multiple machines with very little effort. Open source
 * [memcached](https://memcached.org/) : High-performance, distributed memory object caching system
 * [h2](http://www.h2database.com) : H2 is free SQL database written in Java
-* [mLabs](https://mlab.com/) : MongoDB Hosting: Database-as-a-Service
+* [PostgreSQL](https://www.postgresql.org) : PostgreSQL is an advanced object-relational database management system that supports an extended subset of the SQL standard, including transactions, foreign keys, subqueries, triggers, user-defined types and functions
+* [KairosDB](https://kairosdb.github.io) : KairosDB is a fast distributed scalable time series database written on top of Cassandra
 * [Realm](https://realm.io) : Realm makes it easy to build reactive apps, realtime collaborative features, and offline-first experiences
 
 ## Build/Deployment Environments
 * [Vagrant](https://www.vagrantup.com) : A tool for building and distributing development environments
 * [Docker](https://www.docker.com/) : An open source project to pack, ship and run any application as a lightweight container
+* [Habitat](https://www.habitat.sh) : Habitat is a new approach to automation that focuses on the application instead of the infrastructure it runs on. With Habitat, the apps you build, deploy, and manage behave consistently in any runtime — metal, VMs, containers, and PaaS. You'll spend less time on the environment and more time building features
 
 ## Microkernels
 * [IncludeOS](www.includeos.org/) : A performant, minimal unikernel operating system for the cloud
