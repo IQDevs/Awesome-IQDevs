@@ -160,6 +160,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Office Dev Center](https://dev.office.com/) : Connect to the latest conferences, training, and blog posts for Office 365, Office 365 client, and SharePoint developers
 * [Linux Audit](https://linux-audit.com/) : The Linux security blog covering system hardening, security audits, and compliance. Learn Linux security and apply it yourself
 * [DevDocs](http://devdocs.io/) : Open source API documentation browser with instant fuzzy search, offline mode, keyboard shortcuts, and more
+* [DevHub](https://devhub.io/) : Development Tools Repositories Developers Hub
 * [Tus](https://tus.io) : Open protocol and implementations for resumable file uploads
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) : Learn C and build your own programming language in 1000 lines of code
 * [How GitHub Works: Hours are Bullshit](https://zachholman.com/posts/how-github-works-hours/)
