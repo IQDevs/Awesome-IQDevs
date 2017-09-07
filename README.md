@@ -4,15 +4,6 @@
 # Awesome-IQDevs
 A collection of IQDevs community-gathered tools and resources
 
-## Articles & Blogs
-* [IQDevs Blog](https://iqdevs.github.io) : Official IQDevs developer blog
-* [Facebook Code](https://code.facebook.com/) : Official Facebook developer blog
-* [Office Dev Center](https://dev.office.com/) : Connect to the latest conferences, training, and blog posts for Office 365, Office 365 client, and SharePoint developers
-* [Linux Audit](https://linux-audit.com/) : The Linux security blog covering system hardening, security audits, and compliance. Learn Linux security and apply it yourself
-
-### Developers articles
-* [How GitHub Works: Hours are Bullshit](https://zachholman.com/posts/how-github-works-hours/)
-
 ## Web Development
 ### Front-End
   * [React](https://facebook.github.io/react/) : A JavaScript library for building user interfaces
@@ -163,6 +154,12 @@ A collection of IQDevs community-gathered tools and resources
 * [Egghead](https://egghead.io) : Learn JavaScript for web development with AngularJS, React, D3, and other modern tools.
 
 ## Resources
+* [IQDevs Blog](https://iqdevs.github.io) : Official IQDevs developer blog
+* [Facebook Code](https://code.facebook.com/) : Official Facebook developer blog
+* [Office Dev Center](https://dev.office.com/) : Connect to the latest conferences, training, and blog posts for Office 365, Office 365 client, and SharePoint developers
+* [Linux Audit](https://linux-audit.com/) : The Linux security blog covering system hardening, security audits, and compliance. Learn Linux security and apply it yourself
 * [DevDocs](http://devdocs.io/) : Open source API documentation browser with instant fuzzy search, offline mode, keyboard shortcuts, and more
 * [Tus](https://tus.io) : Open protocol and implementations for resumable file uploads
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) : Learn C and build your own programming language in 1000 lines of code
+* [How GitHub Works: Hours are Bullshit](https://zachholman.com/posts/how-github-works-hours/)
+
