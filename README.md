@@ -165,4 +165,4 @@ A collection of IQDevs community-gathered tools and resources
 ## Resources
 * [DevDocs](http://devdocs.io/) : Open source API documentation browser with instant fuzzy search, offline mode, keyboard shortcuts, and more
 * [Tus](https://tus.io) : Open protocol and implementations for resumable file uploads
-
+* [Build Your Own Lisp](http://www.buildyourownlisp.com/) : Learn C and build your own programming language in 1000 lines of code
