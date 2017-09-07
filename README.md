@@ -107,6 +107,7 @@ A collection of IQDevs community-gathered tools and resources
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/) : Simple, general-purpose, object-oriented programming language
 * [C](https://en.wikipedia.org/wiki/C_(programming_language)) : One of the most widely used programming languages of all time
 * [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
+* [Elixir](https://elixir-lang.org/) : Dynamic, functional language designed for building scalable and maintainable applications
 
 ## Package Managers
 * [NPM](https://www.npmjs.com/) : The package manager for JavaScript
@@ -158,3 +159,5 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Resources
 * [DevDocs](http://devdocs.io/) : Open source API documentation browser with instant fuzzy search, offline mode, keyboard shortcuts, and more
+* [Tus](https://tus.io) : Open protocol and implementations for resumable file uploads
+
