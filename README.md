@@ -45,7 +45,6 @@ A collection of IQDevs community-gathered tools and resources
 * [Jetbrains Decompiler](jetbrains.com/decompiler/) : Standalone tool based on ReSharper's bundled decompiler
 * [WakeTime](https://wakatime.com) : Quantify Your Coding. Open-source plugins for automatic time tracking & insights into your programming
 * [osquery](https://osquery.io) : Expose the operating system as a relational database (by Facebook)
-* [Librariesio](libraries.io) : Libraries.io lets you watch libraries that you depend on and notifies you when there's a new release. When you follow a library, new releases will show up here in your newsfeed.
 
 ## Cloud Services
 * [Heroku](https://www.heroku.com/) : Build, deliver, monitor and scale web apps and APIs with a trail blazing developer experience
@@ -161,6 +160,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Office Dev Center](https://dev.office.com/) : Connect to the latest conferences, training, and blog posts for Office 365, Office 365 client, and SharePoint developers
 * [Linux Audit](https://linux-audit.com/) : The Linux security blog covering system hardening, security audits, and compliance. Learn Linux security and apply it yourself
 * [DevDocs](http://devdocs.io/) : Open source API documentation browser with instant fuzzy search, offline mode, keyboard shortcuts, and more
+* [Librariesio](libraries.io) : Libraries.io lets you watch libraries that you depend on and notifies you when there's a new release. When you follow a library, new releases will show up here in your newsfeed
 * [DevHub](https://devhub.io/) : Development Tools Repositories Developers Hub
 * [Tus](https://tus.io) : Open protocol and implementations for resumable file uploads
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) : Learn C and build your own programming language in 1000 lines of code
