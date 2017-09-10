@@ -167,4 +167,4 @@ A collection of IQDevs community-gathered tools and resources
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) : Learn C and build your own programming language in 1000 lines of code
 * [How GitHub Works: Hours are Bullshit](https://zachholman.com/posts/how-github-works-hours/)
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
-
+* [Open Source Society University](https://github.com/open-source-society/computer-science) : Path to a free self-taught education in Computer Science!
