@@ -45,6 +45,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Jetbrains Decompiler](jetbrains.com/decompiler/) : Standalone tool based on ReSharper's bundled decompiler
 * [WakeTime](https://wakatime.com) : Quantify Your Coding. Open-source plugins for automatic time tracking & insights into your programming
 * [osquery](https://osquery.io) : Expose the operating system as a relational database (by Facebook)
+* [Librariesio](libraries.io) : Libraries.io lets you watch libraries that you depend on and notifies you when there's a new release. When you follow a library, new releases will show up here in your newsfeed.
 
 ## Cloud Services
 * [Heroku](https://www.heroku.com/) : Build, deliver, monitor and scale web apps and APIs with a trail blazing developer experience
