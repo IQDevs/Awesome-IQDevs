@@ -65,6 +65,7 @@ A collection of IQDevs community-gathered tools and resources
 ### File Sharing
 * [Dropbox](https://www.dropbox.com/developers) : Build the power of Dropbox into your apps
 * [Google Drive](https://developers.google.com/drive/) : The Drive SDK gives you a group of APIs along with client libraries, language-specific examples, and documentation to help you develop apps that integrate with Drive. The core functionality of Drive apps is to download and upload files in Google Drive. However, the Drive SDK provides a lot more than just storage
+* [ownCloud](https://owncloud.com) : An enterprise file sharing solution for online collaboration. ownCloud provides the best secure enterprise cloud storage solution to sync and share large files on any device
 * [Uploadcare](https://uploadcare.com) : Uploadcare handles files so you don't have to
 * [Uppy](https://uppy.io/) : The next open source file uploader for web browsers
 
