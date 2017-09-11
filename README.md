@@ -124,6 +124,9 @@ that make use of innovative user interfaces, such as multi-touch apps
 * [Yarn](https://yarnpkg.com/en/) : A new package manager for JavaScript
 * [Brew](https://brew.sh/) : The missing package manager for macOS
 
+## Libraries
+* [NetworkX](https://networkx.github.io/) : Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
+
 ## Embedded Systems/Microkernels
 * [PlatformIO](http://platformio.org/) : PlatformIO is an open source ecosystem for IoT development. Cross-platform build system and library manager. Continuous and IDE integration. Arduino and MBED compatible. Ready for Cloud compiling.
 * [IncludeOS](www.includeos.org/) : A performant, minimal unikernel operating system for the cloud
