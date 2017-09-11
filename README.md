@@ -98,9 +98,6 @@ A collection of IQDevs community-gathered tools and resources
 * [Docker](https://www.docker.com/) : An open source project to pack, ship and run any application as a lightweight container
 * [Habitat](https://www.habitat.sh) : Habitat is a new approach to automation that focuses on the application instead of the infrastructure it runs on. With Habitat, the apps you build, deploy, and manage behave consistently in any runtime — metal, VMs, containers, and PaaS. You'll spend less time on the environment and more time building features
 
-## Microkernels
-* [IncludeOS](www.includeos.org/) : A performant, minimal unikernel operating system for the cloud
-
 ## programming Languages
 ### General Purpose
  * [Python](https://www.python.org) : Python is a clear and powerful object-oriented programming language, comparable to Perl, Ruby, Scheme, or Java
@@ -126,8 +123,10 @@ that make use of innovative user interfaces, such as multi-touch apps
 * [Yarn](https://yarnpkg.com/en/) : A new package manager for JavaScript
 * [Brew](https://brew.sh/) : The missing package manager for macOS
 
-## Embedded Systems
+## Embedded Systems/Microkernels
 * [PlatformIO](http://platformio.org/) : PlatformIO is an open source ecosystem for IoT development. Cross-platform build system and library manager. Continuous and IDE integration. Arduino and MBED compatible. Ready for Cloud compiling.
+* [IncludeOS](www.includeos.org/) : A performant, minimal unikernel operating system for the cloud
+* [Unicorn](http://www.unicorn-engine.org/) : Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework
 
 ## Hacking & Security
 * [Linux Audit](https://linux-audit.com/) : The Linux security blog covering system hardening, security audits, and compliance. Learn Linux security and apply it yourself
