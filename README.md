@@ -83,11 +83,11 @@ A collection of IQDevs community-gathered tools and resources
 ## Databases
 * [Redis](https://redis.io/) : An in-memory database that persists on disk
 * [RocksDB](rocksdb.org/) : Embeddable persistent key-value store for fast storage, developed and maintained by Facebook Database Engineering Team
+* [memcached](https://memcached.org/) : High-performance, distributed memory object caching system
 * [Graph Engine](https://www.graphengine.io/) : RAM Store + Computation Engine + Graph Model (by Microsoft)
 * [PouchDB](https://pouchdb.com/) : Open-source JavaScript database inspired by Apache CouchDB that's designed to run well within the browser
 * [MongoDB](https://www.mongodb.com/) : MongoDB stores data in JSON-like documents that can vary in structure, offering a dynamic, flexible schema. MongoDB was also designed for high availability and scalability, with built-in replication and auto-sharding
 * [RethinkDB](https://www.rethinkdb.com/) : JSON. Scales to multiple machines with very little effort. Open source
-* [memcached](https://memcached.org/) : High-performance, distributed memory object caching system
 * [h2](http://www.h2database.com) : H2 is free SQL database written in Java
 * [PostgreSQL](https://www.postgresql.org) : PostgreSQL is an advanced object-relational database management system that supports an extended subset of the SQL standard, including transactions, foreign keys, subqueries, triggers, user-defined types and functions
 * [KairosDB](https://kairosdb.github.io) : KairosDB is a fast distributed scalable time series database written on top of Cassandra
@@ -102,16 +102,23 @@ A collection of IQDevs community-gathered tools and resources
 * [IncludeOS](www.includeos.org/) : A performant, minimal unikernel operating system for the cloud
 
 ## programming Languages
-* [Rust](https://www.rust-lang.org/en-US/) : Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety
-* [Python](https://www.python.org) : Python is a clear and powerful object-oriented programming language, comparable to Perl, Ruby, Scheme, or Java
-* [TypeScript](http://www.typescriptlang.org) : A superset of JavaScript that compiles to clean JavaScript output
-* [Node.js](https://nodejs.org/en/) : Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications
-* [Go](https://golang.org) : An open source programming language that makes it easy to build simple, reliable, and efficient software
-* [Kotlin](https://kotlinlang.org) : Statically typed programming language for modern multiplatform applications
-* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/) : Simple, general-purpose, object-oriented programming language
-* [C](https://en.wikipedia.org/wiki/C_(programming_language)) : One of the most widely used programming languages of all time
-* [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
-* [Elixir](https://elixir-lang.org/) : Dynamic, functional language designed for building scalable and maintainable applications
+### System Programming
+ * [Rust](https://www.rust-lang.org/en-US/) : Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety
+ * [C](https://en.wikipedia.org/wiki/C_(programming_language)) : One of the most widely used programming languages of all time
+ * [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
+### General Purpose
+ * [Python](https://www.python.org) : Python is a clear and powerful object-oriented programming language, comparable to Perl, Ruby, Scheme, or Java
+ * [TypeScript](http://www.typescriptlang.org) : A superset of JavaScript that compiles to clean JavaScript output
+ * [Node.js](https://nodejs.org/en/) : Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications
+ * [Go](https://golang.org) : An open source programming language that makes it easy to build simple, reliable, and efficient software
+ * [Kotlin](https://kotlinlang.org) : Statically typed programming language for modern multiplatform applications
+ * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/) : Simple, general-purpose, object-oriented programming language
+ * [Elixir](https://elixir-lang.org/) : Dynamic, functional language designed for building scalable and maintainable applications
+### Mobile Development
+ * [React Native](https://facebook.github.io/react-native/) : A framework for building native apps with React
+ * [Kotlin](https://kotlinlang.org) : Statically typed programming language for modern multiplatform applications
+ * [Swift](https://developer.apple.com/swift/) : Swift is a powerful and intuitive programming language for macOS, iOS, watchOS and tvOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design, yet also produces software that runs lightning-fast.
+ * [Xamarin](https://www.xamarin.com/) : Build & design a mobile app using Xamarin's cross-platform development software which simplifies mobile application creation. Download a free trial today
 
 ## Package Managers/Build Tools
 * [NPM](https://www.npmjs.com/) : The package manager for JavaScript
@@ -120,26 +127,13 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Embedded Systems
 * [PlatformIO](http://platformio.org/) : PlatformIO is an open source ecosystem for IoT development. Cross-platform build system and library manager. Continuous and IDE integration. Arduino and MBED compatible. Ready for Cloud compiling.
-* [C](https://en.wikipedia.org/wiki/C_(programming_language)) : One of the most widely used programming languages of all time
-* [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
 
 ## Hacking & Security
 * [Linux Audit](https://linux-audit.com/) : The Linux security blog covering system hardening, security audits, and compliance. Learn Linux security and apply it yourself
 * [Snyk](https://snyk.io) : Fix vulnerabilities in Node & npm dependencies with a click
 
-## Mobile Development
-* [React Native](https://facebook.github.io/react-native/) : A framework for building native apps with React
-* [Kotlin](https://kotlinlang.org) : Statically typed programming language for modern multiplatform applications
-* [Swift](https://developer.apple.com/swift/) : Swift is a powerful and intuitive programming language for macOS, iOS, watchOS and tvOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design, yet also produces software that runs lightning-fast.
-* [Xamarin](https://www.xamarin.com/) : Build & design a mobile app using Xamarin's cross-platform development software which simplifies mobile application creation. Download a free trial today
-
 ## Desktop Programming
 * [Electron](https://electron.atom.io) : Build cross platform desktop apps with web technologies. Formerly known as Atom Shell, made by GitHub.
-
-## System Programming
-* [Rust](https://www.rust-lang.org/en-US/) : Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety
-* [C](https://en.wikipedia.org/wiki/C_(programming_language)) : One of the most widely used programming languages of all time
-* [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
 
 ## Collaboration
 ### Communication
