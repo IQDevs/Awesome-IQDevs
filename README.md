@@ -1,5 +1,6 @@
 [![Build Status](https://api.travis-ci.org/IQDevs/Awesome-IQDevs.svg?branch=master)](https://travis-ci.org/IQDevs/Awesome-IQDevs)
 [![](https://img.shields.io/badge/awesome-status-brightgreen.svg)](https://github.com/IQDevs/Awesome-IQDevs)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/IQDevs/Awesome-IQDevs)
 
 # Awesome-IQDevs
 A collection of IQDevs community-gathered tools and resources
