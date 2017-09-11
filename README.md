@@ -172,6 +172,6 @@ that make use of innovative user interfaces, such as multi-touch apps
 * [DevHub](https://devhub.io/) : Development Tools Repositories Developers Hub
 * [Tus](https://tus.io) : Open protocol and implementations for resumable file uploads
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) : Learn C and build your own programming language in 1000 lines of code
-* [How GitHub Works: Hours are Bullshit](https://zachholman.com/posts/how-github-works-hours/)
+* [How GitHub Works](https://zachholman.com/posts/how-github-works/) : A three-post series explaining how GitHub works
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
 * [Open Source Society University](https://github.com/ossu/computer-science) : Path to a free self-taught education in Computer Science!
