@@ -29,7 +29,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Dependency CI](https://dependencyci.com) : Automatic compliance testing for all of the dependencies in your application.
   Sign Up with GitHub
 * [Visual Studio Mobile Center](https://mobile.azure.com/login?original_url=%2F) : Automate your app lifecycle in a few easy steps
-* [Greenkeeper](https://greenkeeper.io) : GET SAFETY & CONSISTENCY WITH REAL-TIME MONITORING AND AUTOMATIC UPDATES FOR NPM DEPENDENCIES
+* [Greenkeeper](https://greenkeeper.io) : Get safety and consistency with real-time monitoring and automatic updates for NPM dependencies
 * [Buddy](https://buddy.works/) : Git platform for web and software developers with Docker-based tools for Continuous Integration and Deployment
 * [Semaphore](https://semaphoreci.com) : Hosted continuous integration and deployment app for Ruby
 * [Jenkins](https://jenkins.io) : An extendable open source continuous integration server
