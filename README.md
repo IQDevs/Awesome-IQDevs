@@ -6,8 +6,14 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Web Development
 ### Front-End
+#### JavaScript
   * [React](https://facebook.github.io/react/) : A JavaScript library for building user interfaces
+  * [Redux](http://redux.js.org/) : Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger
   * [Vue.js](https://vuejs.org) : The Progressive JavaScript Framework
+ #### CSS
+  * [Bootstrap](http://getbootstrap.com/) : Simple and flexible HTML, CSS, and JS for popular UI components and interactions
+  * [Pure](https://purecss.io) : A set of small, responsive CSS modules that you can use in every web project
+  * [Primer](http://primercss.io/) : CSS toolkit and guidelines that power GitHub
 ### Back-End
   * [Django](https://www.djangoproject.com/) : The Web framework for perfectionists with deadlines
   * [Django REST Framework](www.django-rest-framework.org/) : Web APIs for Django
