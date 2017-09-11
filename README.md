@@ -68,7 +68,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Microsoft Azure](https://azure.microsoft.com/en-us/) : Azure is an open and flexible cloud platform that enables you to quickly build, deploy and manage applications across a global network of Microsoft-managed datacenters. You can build applications using any language, tool or framework. And you can integrate your public cloud applications with your existing IT environment
 * [Google App Engine](https://cloud.google.com/appengine/docs/) : Google has a reputation for highly reliable, high performance infrastructure. With App Engine you can take advantage of the 10 years of knowledge Google has in running massively scalable, performance driven systems. App Engine applications are easy to build, easy to maintain, and easy to scale as your traffic and data storage needs grow
 
-### File Sharing
+### File Sharing/Cloud Storage
 * [Dropbox](https://www.dropbox.com/developers) : Build the power of Dropbox into your apps
 * [Google Drive](https://developers.google.com/drive/) : The Drive SDK gives you a group of APIs along with client libraries, language-specific examples, and documentation to help you develop apps that integrate with Drive. The core functionality of Drive apps is to download and upload files in Google Drive. However, the Drive SDK provides a lot more than just storage
 * [ownCloud](https://owncloud.com) : An enterprise file sharing solution for online collaboration. ownCloud provides the best secure enterprise cloud storage solution to sync and share large files on any device
@@ -113,7 +113,7 @@ A collection of IQDevs community-gathered tools and resources
 * [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
 * [Elixir](https://elixir-lang.org/) : Dynamic, functional language designed for building scalable and maintainable applications
 
-## Package Managers
+## Package Managers/Build Tools
 * [NPM](https://www.npmjs.com/) : The package manager for JavaScript
 * [Yarn](https://yarnpkg.com/en/) : A new package manager for JavaScript
 * [Brew](https://brew.sh/) : The missing package manager for macOS
