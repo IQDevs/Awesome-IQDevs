@@ -176,4 +176,5 @@ that make use of innovative user interfaces, such as multi-touch apps
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
 * [Open Source Society University](https://github.com/ossu/computer-science) : Path to a free self-taught education in Computer Science
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
+* [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) : 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS
 
