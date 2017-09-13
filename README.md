@@ -14,6 +14,8 @@ A collection of IQDevs community-gathered tools and resources
   * [Bootstrap](http://getbootstrap.com/) : Simple and flexible HTML, CSS, and JS for popular UI components and interactions
   * [Pure](https://purecss.io) : A set of small, responsive CSS modules that you can use in every web project
   * [Primer](http://primercss.io/) : CSS toolkit and guidelines that power GitHub
+  
+  
 ### Back-End
   * [Django](https://www.djangoproject.com/) : The Web framework for perfectionists with deadlines
   * [Django REST Framework](www.django-rest-framework.org/) : Web APIs for Django
@@ -160,6 +162,13 @@ A collection of IQDevs community-gathered tools and resources
 * [Microsoft MVA](https://mva.microsoft.com) : Free Microsoft training delivered by experts
 * [Pluralsight](https://www.pluralsight.com/) : Pluralsight focuses on providing high-quality online training for hardcore developers and IT professionals.
 * [Egghead](https://egghead.io) : Learn JavaScript for web development with AngularJS, React, D3, and other modern tools.
+* [Khan Academy](https://www.khanacademy.org/) : A personalized learning resource for all ages.
+* [Udacity](https://www.khanacademy.org/) : Udacity is where lifelong learners come to learn the skills they need, to land the jobs they want, to build the lives they deserve.
+* [Udemy](https://www.udemy.com/) : Join millions of students and instructors in the world’s largest online learning marketplace.
+* [Lynda](https://www.lynda.com/) : Learn a new skill online, on your time.
+* [Google Codelabs](https://codelabs.developers.google.com/) : provide a guided, tutorial, hands-on coding experience.
+
+
 
 ## Resources
 * [IQDevs Blog](https://iqdevs.github.io) : Official IQDevs developer blog
@@ -173,4 +182,20 @@ A collection of IQDevs community-gathered tools and resources
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) : Learn C and build your own programming language in 1000 lines of code
 * [How GitHub Works: Hours are Bullshit](https://zachholman.com/posts/how-github-works-hours/)
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
+* [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) : A guide on how to be a Programmer - originally published by Robert L Read
 * [Open Source Society University](https://github.com/ossu/computer-science) : Path to a free self-taught education in Computer Science!
+* [html & css is hard](https://internetingishard.com/html-and-css/) : A friendly web development tutorial for complete beginners.
+* [Hacker Noon](https://hackernoon.com/) : is everything hackers need at noon. "don’t take realities of the world for granted"
+* [MDN](https://developer.mozilla.org/en-US/) : Resources for developers, by developers.
+
+
+
+
+#### JavaScript resources
+* [JavaScriptInfo](http://javascript.info/) : The Modern JavaScript Tutorial
+* [jstherightway](http://jstherightway.org/) :This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices.
+
+
+
+## Libraries 
+  * [JavaScript graphics library](https://en.wikipedia.org/wiki/JavaScript_graphics_library) :  is a collection of functions used to aid in the creation of graphics for either the HTML5 canvas element or SVG.
