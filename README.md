@@ -172,8 +172,9 @@ that make use of innovative user interfaces, such as multi-touch apps
 * [Code Academy](https://www.codecademy.com) : Codecademy is an online interactive platform that offers free coding classes in 12 different programming languages including Python, Java, PHP, JavaScript, Ruby, SQL, and Sass, as well as markup languages HTML and CSS
 * [hackr.io](https://hackr.io) : Find and share the best online programming courses and tutorials
 * [Microsoft MVA](https://mva.microsoft.com) : Free Microsoft training delivered by experts
-* [Pluralsight](https://www.pluralsight.com/) : Pluralsight focuses on providing high-quality online training for hardcore developers and IT professionals.
-* [Egghead](https://egghead.io) : Learn JavaScript for web development with AngularJS, React, D3, and other modern tools.
+* [Pluralsight](https://www.pluralsight.com/) : Pluralsight focuses on providing high-quality online training for hardcore developers and IT professionals
+* [Egghead](https://egghead.io) : Learn JavaScript for web development with AngularJS, React, D3, and other modern tools
+* [Open Source Society University](https://github.com/ossu/computer-science) : Path to a free self-taught education in Computer Science
 
 ## Resources
 * [IQDevs Blog](https://iqdevs.github.io) : Official IQDevs developer blog
@@ -187,7 +188,6 @@ that make use of innovative user interfaces, such as multi-touch apps
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) : Learn C and build your own programming language in 1000 lines of code
 * [How GitHub Works](https://zachholman.com/posts/how-github-works/) : A three-post series explaining how GitHub works
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
-* [Open Source Society University](https://github.com/ossu/computer-science) : Path to a free self-taught education in Computer Science
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
 * [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) : Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS
 
