@@ -22,6 +22,11 @@ A collection of IQDevs community-gathered tools and resources
   * [Falcon](https://falconframework.org/) : High-performance Python framework for building cloud APIs and web app backends
   * [Ktor](http://ktor.io) : Web backend framework for Kotlin
 
+## Static-Site Generators
+* [Hexo](https://hexo.io) : A fast, simple & powerful blog framework
+* [Hugo](http://gohugo.io) : The world’s fastest framework for building websites
+* [Docsify](https://docsify.js.org) : A documentation site generator without the static html files
+
 ## Continuous Integration
 * [Travis CI](https://travis-ci.org) : A hosted continuous integration service for open source and private projects
 * [AppVeyor](https://www.appveyor.com/) : Continuous Integration and Deployment service for busy Windows developers
@@ -76,10 +81,18 @@ A collection of IQDevs community-gathered tools and resources
 * [Uploadcare](https://uploadcare.com) : Uploadcare handles files so you don't have to
 * [Uppy](https://uppy.io/) : The next open source file uploader for web browsers
 
-## Static-Site Generators
-* [Hexo](https://hexo.io) : A fast, simple & powerful blog framework
-* [Hugo](http://gohugo.io) : The world’s fastest framework for building websites
-* [Docsify](https://docsify.js.org) : A documentation site generator without the static html files
+## Distributed Messaging/Message Queues
+* [Amazon SQS](https://aws.amazon.com/sqs/) : Fully managed message queuing service
+* [RabbitMQ](http://www.rabbitmq.com) : RabbitMQ is a messaging broker - an intermediary for messaging
+* [ZeroMQ](http://zeromq.org/) : Fast, lightweight messaging library that allows you to design complex communication system without much effort
+* [kafka](http://kafka.apache.org) : Distributed, fault tolerant, high throughput pub-sub messaging system
+* [Apache RocketMQ](https://rocketmq.incubator.apache.org/) : Apache RocketMQ is a distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability
+* [Celery](http://www.celeryproject.org) : Distributed task queue
+* [RSMQ](http://smrchy.github.io/rsmq/) : A lightweight message queue for Node.js that requires no dedicated queue server. Just a Redis server
+* [IronMQ](https://www.iron.io/platform/ironmq/) : Message Queue for the Cloud
+* [NSQ](http://nsq.io/) : A realtime distributed messaging platform
+* [ActiveMQ](http://activemq.apache.org/) : A message broker written in Java together with a full JMS client
+* [Gearman](http://gearman.org/) : A generic application framework to farm out work to other machines or processes
 
 ## Databases
 * [Redis](https://redis.io/) : An in-memory database that persists on disk
