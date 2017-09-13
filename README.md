@@ -27,6 +27,9 @@ A collection of IQDevs community-gathered tools and resources
 * [Hugo](http://gohugo.io) : The world’s fastest framework for building websites
 * [Docsify](https://docsify.js.org) : A documentation site generator without the static html files
 
+## Icons
+* [Feather](https://github.com/colebemis/feather) : Simply beautiful open source icons
+
 ## Continuous Integration
 * [Travis CI](https://travis-ci.org) : A hosted continuous integration service for open source and private projects
 * [AppVeyor](https://www.appveyor.com/) : Continuous Integration and Deployment service for busy Windows developers
@@ -162,9 +165,6 @@ that make use of innovative user interfaces, such as multi-touch apps
 * [Discord](https://discordapp.com) : All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone
 ### Project Management
 * [Waffle](https://waffle.io) : Simple project management for your GitHub issues, free for open source
-
-## Icons
-* [Feather](https://github.com/colebemis/feather) : Simply beautiful open source icons
 
 ## Educational Platforms & Courses
 * [Coursera](https://www.coursera.org) : Coursera is a for-profit educational technology company offering massive open online courses founded by computer science professors Andrew Ng and Daphne Koller from Stanford University.
