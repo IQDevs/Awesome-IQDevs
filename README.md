@@ -15,6 +15,8 @@ A collection of IQDevs community-gathered tools and resources
   * [Bootstrap](http://getbootstrap.com/) : Simple and flexible HTML, CSS, and JS for popular UI components and interactions
   * [Pure](https://purecss.io) : A set of small, responsive CSS modules that you can use in every web project
   * [Primer](http://primercss.io/) : CSS toolkit and guidelines that power GitHub
+  
+  
 ### Back-End
   * [Django](https://www.djangoproject.com/) : The Web framework for perfectionists with deadlines
   * [Django REST Framework](www.django-rest-framework.org/) : Web APIs for Django
@@ -142,6 +144,8 @@ that make use of innovative user interfaces, such as multi-touch apps
 
 ## Libraries
 * [NetworkX](https://networkx.github.io/) : Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
+* [JavaScript graphics library](https://en.wikipedia.org/wiki/JavaScript_graphics_library) :  is a collection of functions used to aid in the creation of graphics for either the HTML5 canvas element or SVG.
+* [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) : Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS
 
 ## Embedded Systems/Microkernels
 * [PlatformIO](http://platformio.org/) : PlatformIO is an open source ecosystem for IoT development. Cross-platform build system and library manager. Continuous and IDE integration. Arduino and MBED compatible. Ready for Cloud compiling.
@@ -172,8 +176,13 @@ that make use of innovative user interfaces, such as multi-touch apps
 * [Code Academy](https://www.codecademy.com) : Codecademy is an online interactive platform that offers free coding classes in 12 different programming languages including Python, Java, PHP, JavaScript, Ruby, SQL, and Sass, as well as markup languages HTML and CSS
 * [hackr.io](https://hackr.io) : Find and share the best online programming courses and tutorials
 * [Microsoft MVA](https://mva.microsoft.com) : Free Microsoft training delivered by experts
-* [Pluralsight](https://www.pluralsight.com/) : Pluralsight focuses on providing high-quality online training for hardcore developers and IT professionals
-* [Egghead](https://egghead.io) : Learn JavaScript for web development with AngularJS, React, D3, and other modern tools
+* [Pluralsight](https://www.pluralsight.com/) : Pluralsight focuses on providing high-quality online training for hardcore developers and IT professionals.
+* [Egghead](https://egghead.io) : Learn JavaScript for web development with AngularJS, React, D3, and other modern tools.
+* [Khan Academy](https://www.khanacademy.org/) : A personalized learning resource for all ages.
+* [Udacity](https://www.khanacademy.org/) : Udacity is where lifelong learners come to learn the skills they need, to land the jobs they want, to build the lives they deserve.
+* [Udemy](https://www.udemy.com/) : Join millions of students and instructors in the world’s largest online learning marketplace.
+* [Lynda](https://www.lynda.com/) : Learn a new skill online, on your time.
+* [Google Codelabs](https://codelabs.developers.google.com/) : provide a guided, tutorial, hands-on coding experience.
 * [Open Source Society University](https://github.com/ossu/computer-science) : Path to a free self-taught education in Computer Science
 
 ## Resources
@@ -189,5 +198,12 @@ that make use of innovative user interfaces, such as multi-touch apps
 * [How GitHub Works](https://zachholman.com/posts/how-github-works/) : A three-post series explaining how GitHub works
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
-* [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) : Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS
+* [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) : A guide on how to be a Programmer - originally published by Robert L Read
+* [Open Source Society University](https://github.com/ossu/computer-science) : Path to a free self-taught education in Computer Science!
+* [html & css is hard](https://internetingishard.com/html-and-css/) : A friendly web development tutorial for complete beginners.
+* [Hacker Noon](https://hackernoon.com/) : is everything hackers need at noon. "don’t take realities of the world for granted"
+* [MDN](https://developer.mozilla.org/en-US/) : Resources for developers, by developers.
 
+#### JavaScript Resources
+* [JavaScriptInfo](http://javascript.info/) : The Modern JavaScript Tutorial
+* [jstherightway](http://jstherightway.org/) :This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices.
