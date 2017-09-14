@@ -52,7 +52,6 @@ A collection of IQDevs community-gathered tools and resources
 * [Cloud9 IDE](https://c9.io) : Your development environment, in the cloud
 * [Stackblitz](https://stackblitz.com/) : Online VS Code Editor for Angular and React
 * [SpaceVim](http://spacevim.org/) : SpaceVim is a Modular configuration, a bundle of custom settings and plugins, for Vim. It got inspired by spacemacs.
-* [Spacemacs](http://spacevim.org/) : Emacs advanced Kit focused on Evil: The best editor is neither Emacs nor Vim, it's Emacs and Vim
 
 ## Analytics
 * [Valgrind](http://valgrind.org) : Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools
@@ -153,14 +152,11 @@ that make use of innovative user interfaces, such as multi-touch apps
 * [Unicorn](http://www.unicorn-engine.org/) : Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework
 
 ## Hacking & Security
-* [Linux Audit](https://linux-audit.com/) : The Linux security blog covering system hardening, security audits, and compliance. Learn Linux security and apply it yourself
 * [Snyk](https://snyk.io) : Fix vulnerabilities in Node & npm dependencies with a click
 
 ## Desktop Programming
 * [Electron](https://electron.atom.io) : Build cross platform desktop apps with web technologies. Formerly known as Atom Shell, made by GitHub
 * [Qt5](http://doc.qt.io/qt-5/gettingstartedqt.html) : Write GUI-enabled desktop applications using C++
-* [Kivy](https://kivy.org) : Open source Python library for rapid development of applications
-that make use of innovative user interfaces, such as multi-touch apps
 
 ## Collaboration
 ### Communication
@@ -178,7 +174,6 @@ that make use of innovative user interfaces, such as multi-touch apps
 * [Microsoft MVA](https://mva.microsoft.com) : Free Microsoft training delivered by experts
 * [Pluralsight](https://www.pluralsight.com/) : Pluralsight focuses on providing high-quality online training for hardcore developers and IT professionals.
 * [Egghead](https://egghead.io) : Learn JavaScript for web development with AngularJS, React, D3, and other modern tools.
-* [Khan Academy](https://www.khanacademy.org/) : A personalized learning resource for all ages.
 * [Udacity](https://www.khanacademy.org/) : Udacity is where lifelong learners come to learn the skills they need, to land the jobs they want, to build the lives they deserve.
 * [Udemy](https://www.udemy.com/) : Join millions of students and instructors in the world’s largest online learning marketplace.
 * [Lynda](https://www.lynda.com/) : Learn a new skill online, on your time.
@@ -197,11 +192,9 @@ that make use of innovative user interfaces, such as multi-touch apps
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/) : Learn C and build your own programming language in 1000 lines of code
 * [How GitHub Works](https://zachholman.com/posts/how-github-works/) : A three-post series explaining how GitHub works
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
-* [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
 * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) : A guide on how to be a Programmer - originally published by Robert L Read
-* [Open Source Society University](https://github.com/ossu/computer-science) : Path to a free self-taught education in Computer Science!
 * [html & css is hard](https://internetingishard.com/html-and-css/) : A friendly web development tutorial for complete beginners.
-* [Hacker Noon](https://hackernoon.com/) : is everything hackers need at noon. "don’t take realities of the world for granted"
+* [Hacker Noon](https://hackernoon.com/?gi=11a043d8086c) : is everything hackers need at noon. "don’t take realities of the world for granted"
 * [MDN](https://developer.mozilla.org/en-US/) : Resources for developers, by developers.
 
 #### JavaScript Resources
