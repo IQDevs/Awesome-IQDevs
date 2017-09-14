@@ -137,6 +137,7 @@ A collection of IQDevs community-gathered tools and resources
 that make use of innovative user interfaces, such as multi-touch apps
 
 ## Package Managers/Build Tools
+* [Cargo](https://crates.io/) : Rust package registry & manager
 * [NPM](https://www.npmjs.com/) : The package manager for JavaScript
 * [Yarn](https://yarnpkg.com/en/) : A new package manager for JavaScript
 * [Brew](https://brew.sh/) : The missing package manager for macOS
