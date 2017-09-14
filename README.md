@@ -18,7 +18,6 @@ A collection of IQDevs community-gathered tools and resources
   * [Pure](https://purecss.io) : A set of small, responsive CSS modules that you can use in every web project
   * [Primer](http://primercss.io/) : CSS toolkit and guidelines that power GitHub
 
-
 ### Back-End
   * [Django](https://www.djangoproject.com/) : The Web framework for perfectionists with deadlines
   * [Django REST Framework](www.django-rest-framework.org/) : Web APIs for Django
