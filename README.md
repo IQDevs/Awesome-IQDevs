@@ -137,14 +137,12 @@ A collection of IQDevs community-gathered tools and resources
 that make use of innovative user interfaces, such as multi-touch apps
 
 ## Package Managers/Build Tools
-* [Cargo](https://crates.io/) : Rust package registry & manager
 * [NPM](https://www.npmjs.com/) : The package manager for JavaScript
 * [Yarn](https://yarnpkg.com/en/) : A new package manager for JavaScript
 * [Brew](https://brew.sh/) : The missing package manager for macOS
 
 ## Libraries
 * [NetworkX](https://networkx.github.io/) : Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
-* [Redux](http://redux.js.org/) : Predictable state container for JavaScript apps
 * [JavaScript graphics library](https://en.wikipedia.org/wiki/JavaScript_graphics_library) :  is a collection of functions used to aid in the creation of graphics for either the HTML5 canvas element or SVG.
 * [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) : Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS
 
