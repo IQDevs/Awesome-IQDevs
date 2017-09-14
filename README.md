@@ -194,7 +194,7 @@ that make use of innovative user interfaces, such as multi-touch apps
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know) : A collection of (mostly) technical things every software developer should know
 * [HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) : A guide on how to be a Programmer - originally published by Robert L Read
 * [html & css is hard](https://internetingishard.com/html-and-css/) : A friendly web development tutorial for complete beginners.
-* [Hacker Noon](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fhackernoon.com%2F) : is everything hackers need at noon. "don’t take realities of the world for granted"
+* [Hacker Noon](https://hackernoon.com/) : is everything hackers need at noon. "don’t take realities of the world for granted"
 * [MDN](https://developer.mozilla.org/en-US/) : Resources for developers, by developers.
 
 #### JavaScript Resources
