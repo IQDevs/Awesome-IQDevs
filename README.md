@@ -5,6 +5,8 @@
 # Awesome-IQDevs
 A collection of IQDevs community-gathered tools and resources
 
+![Their co-existant is slippers](https://i.imgur.com/g8RYOVi.png)
+
 ## Web Development
 ### Front-End
 #### JavaScript
@@ -15,8 +17,7 @@ A collection of IQDevs community-gathered tools and resources
   * [Bootstrap](http://getbootstrap.com/) : Simple and flexible HTML, CSS, and JS for popular UI components and interactions
   * [Pure](https://purecss.io) : A set of small, responsive CSS modules that you can use in every web project
   * [Primer](http://primercss.io/) : CSS toolkit and guidelines that power GitHub
-  
-  
+
 ### Back-End
   * [Django](https://www.djangoproject.com/) : The Web framework for perfectionists with deadlines
   * [Django REST Framework](www.django-rest-framework.org/) : Web APIs for Django
