@@ -6,8 +6,13 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Web Development
 ### Front-End
+  * [Angular](https://angular.io) : One framework. Mobile & desktop.
   * [React](https://facebook.github.io/react/) : A JavaScript library for building user interfaces
   * [Vue.js](https://vuejs.org) : The Progressive JavaScript Framework
+  
+### Cross-Platform mobile development
+  * [Ionic](http://ionicframework.com) : Use your Angular 2+ knowledge to build iOS and Android apps.
+  
 ### Back-End
   * [Django](https://www.djangoproject.com/) : The Web framework for perfectionists with deadlines
   * [Django REST Framework](www.django-rest-framework.org/) : Web APIs for Django
