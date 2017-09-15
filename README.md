@@ -137,7 +137,8 @@ A collection of IQDevs community-gathered tools and resources
 * [ownCloud](https://owncloud.com) : An enterprise file sharing solution for online collaboration. ownCloud provides the best secure enterprise cloud storage solution to sync and share large files on any device
 * [Uploadcare](https://uploadcare.com) : Uploadcare handles files so you don't have to
 * [Uppy](https://uppy.io/) : The next open source file uploader for web browsers
-* [pCloud](http://pcloud.com) : The best secure cloud file storage, hosted in Switzerland.
+* [pCloud](http://pcloud.com) : The best secure cloud file storage, hosted in Switzerland
+* [Minio](https://minio.io) : AWS S3 open source alternative written in Go
 
 ## Distributed Messaging/Message Queues
 * [Amazon SQS](https://aws.amazon.com/sqs/) : Fully managed message queuing service
