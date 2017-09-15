@@ -68,6 +68,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Google Drive](https://developers.google.com/drive/) : The Drive SDK gives you a group of APIs along with client libraries, language-specific examples, and documentation to help you develop apps that integrate with Drive. The core functionality of Drive apps is to download and upload files in Google Drive. However, the Drive SDK provides a lot more than just storage
 * [Uploadcare](https://uploadcare.com) : Uploadcare handles files so you don't have to
 * [Uppy](https://uppy.io/) : The next open source file uploader for web browsers
+* [pCloud](http://pcloud.com) : The best secure cloud file storage, hosted in Switzerland.
 
 ## Static-Site Generators
 * [Hexo](https://hexo.io) : A fast, simple & powerful blog framework
@@ -91,6 +92,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Vagrant](https://www.vagrantup.com) : A tool for building and distributing development environments
 * [Docker](https://www.docker.com/) : An open source project to pack, ship and run any application as a lightweight container
 * [Habitat](https://www.habitat.sh) : Habitat is a new approach to automation that focuses on the application instead of the infrastructure it runs on. With Habitat, the apps you build, deploy, and manage behave consistently in any runtime — metal, VMs, containers, and PaaS. You'll spend less time on the environment and more time building features
+* [Hatch](https://github.com/ofek/hatch/blob/master/README.rst) : Hatch is a modern way to manage Python development environment.
 
 ## Microkernels
 * [IncludeOS](www.includeos.org/) : A performant, minimal unikernel operating system for the cloud
