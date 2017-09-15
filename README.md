@@ -5,8 +5,6 @@
 # Awesome-IQDevs
 A collection of IQDevs community-gathered tools and resources
 
-![Their co-existant is slippers](https://i.imgur.com/g8RYOVi.png)
-
 ## Web Development
 ### Front-End
 #### JavaScript
