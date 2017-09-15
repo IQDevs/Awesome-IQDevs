@@ -33,7 +33,6 @@ A collection of IQDevs community-gathered tools and resources
 ## Libraries
 * [NetworkX](https://networkx.github.io/) : Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks
 * [JavaScript graphics library](https://en.wikipedia.org/wiki/JavaScript_graphics_library) :  is a collection of functions used to aid in the creation of graphics for either the HTML5 canvas element or SVG.
-* [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) : Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS
 
 ## Web Development
 ### Front-End
@@ -200,4 +199,6 @@ A collection of IQDevs community-gathered tools and resources
 * [Hacker Noon](https://hackernoon.com/) : is everything hackers need at noon. "don’t take realities of the world for granted"
 * [MDN](https://developer.mozilla.org/en-US/) : Resources for developers, by developers.
 * [JavaScriptInfo](http://javascript.info/) : The Modern JavaScript Tutorial
-* [jstherightway](http://jstherightway.org/) :This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices.
+* [jstherightway](http://jstherightway.org/) :This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices
+* [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) : Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS
+
