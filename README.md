@@ -11,6 +11,8 @@ A collection of IQDevs community-gathered tools and resources
   * [React](https://facebook.github.io/react/) : A JavaScript library for building user interfaces
   * [Redux](http://redux.js.org/) : Redux helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger
   * [Vue.js](https://vuejs.org) : The Progressive JavaScript Framework
+  * [Angular](https://angular.io) : One framework. Mobile & desktop
+
  #### CSS
   * [Bootstrap](http://getbootstrap.com/) : Simple and flexible HTML, CSS, and JS for popular UI components and interactions
   * [Pure](https://purecss.io) : A set of small, responsive CSS modules that you can use in every web project
@@ -83,6 +85,7 @@ A collection of IQDevs community-gathered tools and resources
 * [ownCloud](https://owncloud.com) : An enterprise file sharing solution for online collaboration. ownCloud provides the best secure enterprise cloud storage solution to sync and share large files on any device
 * [Uploadcare](https://uploadcare.com) : Uploadcare handles files so you don't have to
 * [Uppy](https://uppy.io/) : The next open source file uploader for web browsers
+* [pCloud](http://pcloud.com) : The best secure cloud file storage, hosted in Switzerland.
 
 ## Distributed Messaging/Message Queues
 * [Amazon SQS](https://aws.amazon.com/sqs/) : Fully managed message queuing service
@@ -114,6 +117,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Vagrant](https://www.vagrantup.com) : A tool for building and distributing development environments
 * [Docker](https://www.docker.com/) : An open source project to pack, ship and run any application as a lightweight container
 * [Habitat](https://www.habitat.sh) : Habitat is a new approach to automation that focuses on the application instead of the infrastructure it runs on. With Habitat, the apps you build, deploy, and manage behave consistently in any runtime — metal, VMs, containers, and PaaS. You'll spend less time on the environment and more time building features
+* [Hatch](https://github.com/ofek/hatch/blob/master/README.rst) : Hatch is a modern way to manage Python development environment.
 
 ## programming Languages
 ### General Purpose
@@ -132,9 +136,9 @@ A collection of IQDevs community-gathered tools and resources
  * [Kotlin](https://kotlinlang.org) : Statically typed programming language for modern multiplatform applications
  * [Swift](https://developer.apple.com/swift/) : Swift is a powerful and intuitive programming language for macOS, iOS, watchOS and tvOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design, yet also produces software that runs lightning-fast.
  * [Xamarin](https://www.xamarin.com/) : Build & design a mobile app using Xamarin's cross-platform development software which simplifies mobile application creation. Download a free trial today
- * [Kivy](https://kivy.org) : Open source Python library for rapid development of applications
-that make use of innovative user interfaces, such as multi-touch apps
-
+ * [Kivy](https://kivy.org) : Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps
+ * [Ionic](http://ionicframework.com) : Use your Angular 2+ knowledge to build iOS and Android apps
+ 
 ## Package Managers/Build Tools
 * [NPM](https://www.npmjs.com/) : The package manager for JavaScript
 * [Yarn](https://yarnpkg.com/en/) : A new package manager for JavaScript
