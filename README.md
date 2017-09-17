@@ -139,6 +139,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Uppy](https://uppy.io/) : The next open source file uploader for web browsers
 * [pCloud](http://pcloud.com) : The best secure cloud file storage, hosted in Switzerland
 * [Minio](https://minio.io) : AWS S3 open source alternative written in Go
+* [Transfer.sh](https://transfer.sh/) : Easy file sharing from the command line
 
 ## Distributed Messaging/Message Queues
 * [Amazon SQS](https://aws.amazon.com/sqs/) : Fully managed message queuing service
@@ -152,10 +153,11 @@ A collection of IQDevs community-gathered tools and resources
 * [NSQ](http://nsq.io/) : A realtime distributed messaging platform
 * [ActiveMQ](http://activemq.apache.org/) : A message broker written in Java together with a full JMS client
 * [Gearman](http://gearman.org/) : A generic application framework to farm out work to other machines or processes
+* [EMQ](http://emqtt.io/) : EMQ (Erlang MQTT Broker) is a distributed, massively scalable, highly extensible MQTT message broker written in Erlang/OTP.
 
 ## Embedded Systems/Microkernels
 * [PlatformIO](http://platformio.org/) : PlatformIO is an open source ecosystem for IoT development. Cross-platform build system and library manager. Continuous and IDE integration. Arduino and MBED compatible. Ready for Cloud compiling.
-* [IncludeOS](www.includeos.org/) : A performant, minimal unikernel operating system for the cloud
+* [IncludeOS](http://www.includeos.org/) : A performant, minimal unikernel operating system for the cloud
 * [Unicorn](http://www.unicorn-engine.org/) : Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework
 
 ## Hacking & Security
@@ -202,4 +204,5 @@ A collection of IQDevs community-gathered tools and resources
 * [JavaScriptInfo](http://javascript.info/) : The Modern JavaScript Tutorial
 * [jstherightway](http://jstherightway.org/) :This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices
 * [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) : Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) : A listing of companies (or teams) that don't do "whiteboard" interviews, or CS trivia questions.
 
