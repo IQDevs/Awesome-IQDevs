@@ -54,6 +54,9 @@ A collection of IQDevs community-gathered tools and resources
 * [Stackblitz](https://stackblitz.com/) : Online VS Code Editor for Angular and React
 * [SpaceVim](http://spacevim.org/) : SpaceVim is a Modular configuration, a bundle of custom settings and plugins, for Vim. It got inspired by spacemacs.
 
+## Embedded editors
+* [TinyMCE](https://www.tinymce.com/) : Full featured web editing. Featherweight download.
+
 ## Analytics
 * [Valgrind](http://valgrind.org) : Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools
 * [Coverity](https://scan.coverity.com/) : Find and fix defects in your Java, C/C++, C#, JavaScript, Ruby, or Python open source project for free
