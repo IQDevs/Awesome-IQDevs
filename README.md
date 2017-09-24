@@ -47,6 +47,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Jenkins](https://jenkins.io) : An extendable open source continuous integration server
 
 ## Editors
+### Standalone editors
 * [Atom](atom.io) : A hackable text editor for the 21st Century
 * [Visual Studio Code](https://code.visualstudio.com/) : Build and debug modern web and cloud applications, by Microsoft
 * [Codepen](https://codepen.io) : Social development environment for front-end designers and developers
@@ -54,7 +55,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Stackblitz](https://stackblitz.com/) : Online VS Code Editor for Angular and React
 * [SpaceVim](http://spacevim.org/) : SpaceVim is a Modular configuration, a bundle of custom settings and plugins, for Vim. It got inspired by spacemacs.
 
-## Embedded editors
+### Embedded editors
 * [TinyMCE](https://www.tinymce.com/) : Full featured web editing. Featherweight download.
 
 ## Analytics
