@@ -86,12 +86,16 @@ A collection of IQDevs community-gathered tools and resources
 * [Hatch](https://github.com/ofek/hatch/blob/master/README.rst) : Hatch is a modern way to manage Python development environment
 
 ## Editors
+### Standalone editors
 * [Atom](atom.io) : A hackable text editor for the 21st Century
 * [Visual Studio Code](https://code.visualstudio.com/) : Build and debug modern web and cloud applications, by Microsoft
 * [Codepen](https://codepen.io) : Social development environment for front-end designers and developers
 * [Cloud9 IDE](https://c9.io) : Your development environment, in the cloud
 * [Stackblitz](https://stackblitz.com/) : Online VS Code Editor for Angular and React
 * [SpaceVim](http://spacevim.org/) : SpaceVim is a Modular configuration, a bundle of custom settings and plugins, for Vim. It got inspired by spacemacs.
+
+### Embedded editors
+* [TinyMCE](https://www.tinymce.com/) : Full featured web editing. Featherweight download.
 
 ## Analytics
 * [Valgrind](http://valgrind.org) : Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools
