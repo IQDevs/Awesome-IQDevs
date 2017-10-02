@@ -163,6 +163,7 @@ A collection of IQDevs community-gathered tools and resources
 * [PlatformIO](http://platformio.org/) : PlatformIO is an open source ecosystem for IoT development. Cross-platform build system and library manager. Continuous and IDE integration. Arduino and MBED compatible. Ready for Cloud compiling.
 * [IncludeOS](http://www.includeos.org/) : A performant, minimal unikernel operating system for the cloud
 * [Unicorn](http://www.unicorn-engine.org/) : Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework
+* [Yocto Project](https://www.yoctoproject.org) : The Yocto Project is an open source collaboration project that provides templates, tools and methods to help you create custom Linux-based systems for embedded products regardless of the hardware architecture
 
 ## Hacking & Security
 * [Snyk](https://snyk.io) : Fix vulnerabilities in Node & npm dependencies with a click
