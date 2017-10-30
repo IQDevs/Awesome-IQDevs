@@ -174,7 +174,7 @@ A collection of IQDevs community-gathered tools and resources
 ## Hacking & Security
 * [Snyk](https://snyk.io) : Fix vulnerabilities in Node & npm dependencies with a click
 
-## Collaboration
+## Team Collaboration
 ### Communication
 * [Gitter](https://gitter.im) : Messaging for people who make software. Integrated with your team, projects and your code
 * [Slack](https://slack.com) : Slack brings all your communication together in one place
