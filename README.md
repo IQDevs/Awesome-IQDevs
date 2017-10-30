@@ -17,6 +17,7 @@ A collection of IQDevs community-gathered tools and resources
  * [Rust](https://www.rust-lang.org/en-US/) : Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety
  * [C](https://en.wikipedia.org/wiki/C_(programming_language)) : One of the most widely used programming languages of all time
  * [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
+
 ### Mobile Development
  * [React Native](https://facebook.github.io/react-native/) : A framework for building native apps with React
  * [Kotlin](https://kotlinlang.org) : Statically typed programming language for modern multiplatform applications
@@ -24,7 +25,12 @@ A collection of IQDevs community-gathered tools and resources
  * [Xamarin](https://www.xamarin.com/) : Build & design a mobile app using Xamarin's cross-platform development software which simplifies mobile application creation. Download a free trial today
  * [Kivy](https://kivy.org) : Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps
  * [Ionic](http://ionicframework.com) : Use your Angular 2+ knowledge to build iOS and Android apps
- 
+
+### Mobile Application Performence Analytics
+  * [Fabric](https://get.fabric.io/) : To measure and understand your app performence in production in real-time, track down crashs/bugs and conduct beta testing groups. for iOS and Android.
+  * [Appsee](https://www.appsee.com/) : Analytics platform that provides video-based sessions to have better understanding of users behaviour and interaction, and to track-down crashes/bugs caused by UI which is sometimes can't be reproduced or traced by stacktrace or crashlogs.
+
+
 ## Package Managers/Build Tools
 * [NPM](https://www.npmjs.com/) : The package manager for JavaScript
 * [Yarn](https://yarnpkg.com/en/) : A new package manager for JavaScript
