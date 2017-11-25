@@ -217,5 +217,5 @@ A collection of IQDevs community-gathered tools and resources
 * [JavaScriptInfo](http://javascript.info/) : The Modern JavaScript Tutorial
 * [jstherightway](http://jstherightway.org/) :This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices
 * [Best Resume Ever](https://github.com/salomonelli/best-resume-ever) : Build fast and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS
-* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) : A listing of companies (or teams) that don't do "whiteboard" interviews, or CS trivia questions.
-
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards) : A listing of companies (or teams) that don't do "whiteboard" interviews, or CS trivia questions
+* [Build an embedded Linux distro from scratch](https://www.ibm.com/developerworks/linux/tutorials/l-embedded-distro/index.html) - The result of this tutorial (if you have a suitable target) is a functional Linux system you can get a shell prompt on
