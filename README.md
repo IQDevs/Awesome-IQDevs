@@ -26,7 +26,6 @@ A collection of IQDevs community-gathered tools and resources
  * [Kivy](https://kivy.org) : Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps
  * [Ionic](http://ionicframework.com) : Use your Angular 2+ knowledge to build iOS and Android apps
 
-
 ## Mobile Development - UI Tools
 * [https://www.haiku.ai/](Haiku) : Create dynamic, cross-platform UIs using design tools, code, or both
 
@@ -75,7 +74,7 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Desktop Programming
 * [Electron](https://electron.atom.io) : Build cross platform desktop apps with web technologies. Formerly known as Atom Shell, made by GitHub
-* [Qt5](http://doc.qt.io/qt-5/gettingstartedqt.html) : Write GUI-enabled desktop applications using C++
+* [Qt5](http://doc.qt.io/qt-5) : Write GUI-enabled desktop applications using C++
 
 ## Databases
 * [Redis](https://redis.io/) : An in-memory database that persists on disk
@@ -97,7 +96,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Hatch](https://github.com/ofek/hatch/blob/master/README.rst) : Hatch is a modern way to manage Python development environment
 
 ## Editors
-### Standalone editors
+### Standalone Editors
 * [Atom](atom.io) : A hackable text editor for the 21st Century
 * [Visual Studio Code](https://code.visualstudio.com/) : Build and debug modern web and cloud applications, by Microsoft
 * [Codepen](https://codepen.io) : Social development environment for front-end designers and developers
