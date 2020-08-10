@@ -31,7 +31,6 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Mobile Application Performence Analytics
   * [Fabric](https://get.fabric.io/) : To measure and understand your app performence in production in real-time, track down crashs/bugs and conduct beta testing groups. for iOS and Android
-  * [Appsee](https://www.appsee.com/) : Analytics platform that provides video-based sessions to have better understanding of users behaviour and interaction, and to track-down crashes/bugs caused by UI which is sometimes can't be reproduced or traced by stacktrace or crashlogs
 
 ## Package Managers/Build Tools
 * [NPM](https://www.npmjs.com/) : The package manager for JavaScript
@@ -132,7 +131,6 @@ A collection of IQDevs community-gathered tools and resources
 ## Cloud Services
 * [Heroku](https://www.heroku.com/) : Build, deliver, monitor and scale web apps and APIs with a trail blazing developer experience
 * [Clever Cloud](https://www.clever-cloud.com/) : Deploy and run apps with bulletproof infrastructure, automatic scaling, and fair pricing
-* [Deepstream](https://deepstreamhub.com/open-source/) : deepstream is a powerful websocket server that syncs realtime data between browsers, smartphones, backends and the IoT
 * [Parse](http://parseplatform.org/) : The complete mobile app platform
 * [Surge](https://surge.sh/) : Static web publishing for Front-End Developers
 * [Now](https://zeit.co/now) : Realtime global deployments - _Zeit_
@@ -161,7 +159,6 @@ A collection of IQDevs community-gathered tools and resources
 * [ZeroMQ](http://zeromq.org/) : Fast, lightweight messaging library that allows you to design complex communication system without much effort
 * [kafka](http://kafka.apache.org) : Distributed, fault tolerant, high throughput pub-sub messaging system
 * [Apache RocketMQ](https://rocketmq.incubator.apache.org/) : Apache RocketMQ is a distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability
-* [Celery](http://www.celeryproject.org) : Distributed task queue
 * [RSMQ](http://smrchy.github.io/rsmq/) : A lightweight message queue for Node.js that requires no dedicated queue server. Just a Redis server
 * [IronMQ](https://www.iron.io/platform/ironmq/) : Message Queue for the Cloud
 * [NSQ](http://nsq.io/) : A realtime distributed messaging platform
@@ -202,7 +199,6 @@ A collection of IQDevs community-gathered tools and resources
 ## Resources
 * [IQDevs Blog](https://iqdevs.github.io) : Official IQDevs developer blog
 * [Facebook Code](https://code.facebook.com/) : Official Facebook developer blog
-* [Office Dev Center](https://dev.office.com/) : Connect to the latest conferences, training, and blog posts for Office 365, Office 365 client, and SharePoint developers
 * [Linux Audit](https://linux-audit.com/) : The Linux security blog covering system hardening, security audits, and compliance. Learn Linux security and apply it yourself
 * [DevDocs](http://devdocs.io/) : Open source API documentation browser with instant fuzzy search, offline mode, keyboard shortcuts, and more
 * [Librariesio](libraries.io) : Libraries.io lets you watch libraries that you depend on and notifies you when there's a new release. When you follow a library, new releases will show up here in your newsfeed
