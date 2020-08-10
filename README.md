@@ -180,7 +180,7 @@ A collection of IQDevs community-gathered tools and resources
 * [Slack](https://slack.com) : Slack brings all your communication together in one place
 * [Discord](https://discordapp.com) : All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone
 ### Project Management
-* [Waffle](https://waffle.io) : Simple project management for your GitHub issues, free for open source
+* [Backlog](https://backlog.com) : Issue tracking, Git hosting and version control, and Wiki
 
 ## Educational Platforms & Courses
 * [Coursera](https://www.coursera.org) : Coursera is a for-profit educational technology company offering massive open online courses founded by computer science professors Andrew Ng and Daphne Koller from Stanford University.
