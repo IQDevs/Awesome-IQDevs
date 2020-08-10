@@ -180,7 +180,6 @@ A collection of IQDevs community-gathered tools and resources
 
 ## Team Collaboration
 ### Communication
-* [Gitter](https://gitter.im) : Messaging for people who make software. Integrated with your team, projects and your code
 * [Slack](https://slack.com) : Slack brings all your communication together in one place
 * [Discord](https://discordapp.com) : All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone
 ### Project Management
