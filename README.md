@@ -54,7 +54,7 @@ A collection of IQDevs community-gathered tools and resources
   * [Pure](https://purecss.io) : A set of small, responsive CSS modules that you can use in every web project
   * [Primer](http://primercss.io/) : CSS toolkit and guidelines that power GitHub
   * [materializecss](http://materializecss.com/) : A modern responsive front-end framework based on Material Design
-  * [Shards(https://designrevision.com/downloads/shards/) : A free and modern UI toolkit for web makers based on the popular Bootstrap 4 framework
+  * [Shards](https://designrevision.com/downloads/shards/) : A free and modern UI toolkit for web makers based on the popular Bootstrap 4 framework
 
 ### Back-End
   * [Django](https://www.djangoproject.com/) : The Web framework for perfectionists with deadlines
