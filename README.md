@@ -19,6 +19,7 @@ A collection of IQDevs community-gathered tools and resources
  * [C++](http://www.cplusplus.com) : Has imperative, object-oriented and generic programming features, while also providing the facilities for low level memory manipulation
 
 ### Mobile Development
+ * [Flutter](https://flutter.dev/) : Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, desktop, and embedded devices from a single codebase.
  * [React Native](https://facebook.github.io/react-native/) : A framework for building native apps with React
  * [Kotlin](https://kotlinlang.org) : Statically typed programming language for modern multiplatform applications
  * [Swift](https://developer.apple.com/swift/) : Swift is a powerful and intuitive programming language for macOS, iOS, watchOS and tvOS. Writing Swift code is interactive and fun, the syntax is concise yet expressive, and Swift includes modern features developers love. Swift code is safe by design, yet also produces software that runs lightning-fast.
